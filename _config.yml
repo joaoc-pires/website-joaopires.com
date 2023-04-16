@@ -14,8 +14,9 @@ author: Joao Pires
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+
   Projects: /projects
-  
+
   # Personal Projects:
   #   - Ares: "https://apps.apple.com/us/app/ares-rss-reader/id1560552142"
   #   - PortugalTrains: "https://github.com/joaoc-pires/PortugalTrains"
