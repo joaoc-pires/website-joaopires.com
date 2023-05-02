@@ -27,16 +27,20 @@ Ezeep Blue is a printing solution for companies and individuals. It adds access 
 <br><sup>*since 2022*</sup>
 <br>
 <br>
+<img style="border-radius: 12px; width: 54px; height: 54px; float: left; padding: 4px;" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/20/b2/43/20b243a3-9e84-cfc6-cca3-fd48b24a0aeb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" alt="Ares App Logo"/> **[Ares - RSS Reader](https://apps.apple.com/us/app/ares-rss-reader/id1560552142)**
+<br>
+Ares is an RSS Reader that syncs between iOS devices using iCloud. There's not much more to it, really. 
+<br><sup>*since 2019*</sup>
+<br>
+<br>
+<img style="border-radius: 12px; width: 54px; height: 54px; float: left; padding: 4px;" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/4a/41/b84a41e5-21d7-c447-3f13-1d9fd61ec04f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png" alt="Rede App Logo"/> **[Rede - Comboios de Portugal](https://apps.apple.com/us/app/rede-comboios-de-portugal/id1447635458)**
+<br>
+Rede allows to follow train arrivals and departures from portuguese train stations
+<br><sup>*since 2019*</sup>
+<br>
+<br>
 <img style="border-radius: 12px; width: 54px; height: 54px; float: left; padding: 4px;" src="https://media.forgecdn.net/avatars/thumbnails/627/205/64/64/638021897624085457.jpeg" alt="HoN Announcer Addon Logo"/> **[HoN Announcer](https://github.com/joaoc-pires/HoN-Announcer-REMADE)**
 <br>HoN Announcer is a World of Warcraft addon that uses voice lines from Heroes of Newerth for various PvP related events
 <br><sup>*since 2021*</sup>
 <br>
 <br>
-### Projects I'm no longer involved:
-<img style="border-radius: 12px; width: 54px; height: 54px; float: left; padding: 4px;" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/20/b2/43/20b243a3-9e84-cfc6-cca3-fd48b24a0aeb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" alt="Ares App Logo"/> **[Ares - RSS Reader](https://apps.apple.com/us/app/ares-rss-reader/id1560552142)**
-<br>
-Ares is an RSS Reader that syncs between iOS devices using iCloud. There's not much more to it, really. 
-<br><sup>*between 2019 and 2022*</sup>
-<br>
-<br>
-
