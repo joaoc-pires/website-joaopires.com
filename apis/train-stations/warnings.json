@@ -1,5 +1,5 @@
 {
-    "hasError": true,
+    "hasError": false,
     "errorMessage": "This is a test warning.",
     "errorVersion": "2023.2",
     "errorLevel": 1,
