@@ -15,7 +15,7 @@ Da mesma forma como a informação das estações está disponível no site da I
 Essencialmente nenhuma. Quando são feitos pedidos na internet o IP é sempre partilhado, mas os pedidos são feitos aos servidores da Infraestruturas de Portugal e do GitHub, pelo que a app não guarda, nem sequer regista o IP.
 
 ### O que acontece se a Infraestruturas de Portugal remover acesso à API?
-Não sei. A informação está disponível na internet de forma aberta à anos, pelo que não antevejo isso a acontecer. Se acontecer, na altura verei o que pode ser feito.
+Não sei. A informação está disponível na internet de forma aberta há anos, pelo que não antevejo isso a acontecer. Se acontecer, na altura verei o que pode ser feito.
 
 ### Quem é o responsável pela App?
-[Eu](https://zeroloop.org). Também estou disponível [aqui](https://twitter.com/_joaocpires) e [aqui](mailto:joao@zeroloop.org).
+[Eu](https://joaopires.com). Também estou disponível [aqui](https://twitter.com/_joaocpires) e [aqui](mailto:developer@joaopires.com).

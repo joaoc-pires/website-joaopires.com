@@ -49,7 +49,7 @@ By using our site or apps, you consent to our privacy policy.
 
 ## Contacting Us
 
-If you have questions regarding this privacy policy, you may email joao@zeroloop. Please note that for security reasons data deletion should be done within the Rede app, not via email requests – this is because we can not access your information
+If you have questions regarding this privacy policy, you may email developer@joaopires.com. Please note that for security reasons data deletion should be done within the Rede app, not via email requests – this is because we can not access your information
 
 ## Changes to this policy
 
