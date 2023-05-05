@@ -1,6 +1,6 @@
 {
-    "hasError": false,
-    "errorMessage": "",
+    "hasError": true,
+    "errorMessage": "This is a test warning.",
     "errorVersion": "2023.2",
     "errorLevel": 1,
     "errorLink": "https://joaopires.com"
