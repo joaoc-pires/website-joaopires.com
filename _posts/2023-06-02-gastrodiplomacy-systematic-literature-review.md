@@ -15,6 +15,9 @@ After spending some 2 months going back and forth with this project, I’m happy
 
 # Resources
 [1] M. Karp, "Vice.com," 29 Marcg 2018. [Online]. Available: https://www.vice.com/en/article/paxadz/the-surprising-reason-that-there-are-so-many-thai-restaurants-in-america. [Accessed January 2023].
+
 [2] D. Taylor, "How to Write a Strong Research Question in One Minute," 2022. [Online]. Available: https://www.youtube.com/watch?v=5IEQjPk79i0.
+
 [3] D. Stuckler, "Literature Review - Step by Step Guide For Graduate Students," 2021. [Online]. Available: https://www.youtube.com/watch?v=rk_jgtdJOD0.
+
 [4] P. Morton, "Patricia Morton Youtube Channel," [Online]. Available: https://www.youtube.com/@patriciamorton9567.
