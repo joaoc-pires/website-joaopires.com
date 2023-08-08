@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: JoaoPires.com
+title: Joao Pires
 
 # Your name to show in the footer
 author: Joao Pires
@@ -45,7 +45,7 @@ social-network-links:
   email: "mail@joaopires.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: joaoc-pires
-  twitter: _joaocpires
+# twitter: _joaocpires
 #  medium: yourname
 #  reddit: yourname
   linkedin: joao-carlos-pires-0634b6b3
@@ -60,7 +60,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+ mastodon: mastodon.social/@keirmot
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid
@@ -73,9 +73,9 @@ rss-description: Here's what I'm up to...
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
