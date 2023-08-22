@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Feed Stand OPML File - Powered by FeedStand</title>
+	</head>
+	<body>
+    <outline text="Android Development" title="Android Development">
+    	<outline text="Buffer Android Resources" 	title="Buffer Android Resources" 	description="In-depth ideas and guides to social media and online marketing strategy, published by the team at Buffer" xmlUrl="https://buffer.com/resources/android/rss/" type="rss" />
+		<outline text="Dan Lew Codes" 				title="Dan Lew Codes" 				description="Thoughts on life, the universe and the mystery of it all; but actually mostly just code." xmlUrl="https://blog.danlew.net/rss/" type="rss" />
+        <outline text="Handstand Sam" 				title="Handstand Sam" 				description="Sam Edwards - Handstands, Travel, Android and Web" xmlUrl="https://handstandsam.com/feed/" type="rss" />
+		<outline text="Jake Wharton" 				title="Jake Wharton" 				description="" xmlUrl="https://jakewharton.com/atom.xml" type="rss" />
+		<outline text="JetBrains News" 				title="JetBrains News" 				description="Developer Tools for Professionals and Teams" xmlUrl="https://blog.jetbrains.com/blog/feed" type="rss" />
+		<outline text="Joe Birch"		 			title="Joe Birch" 					description="Speaker, Educator and GDE for Android, Google Assistant and Flutter" xmlUrl="https://joebirch.co/feed" type="rss" />
+		<outline text="OkKotlin" 					title="OkKotlin" 					description="A premier blog on Kotlin." xmlUrl="https://okkotlin.com/rss.xml" type="rss" />
+		<outline text="Public Object" 				title="Public Object" 				description="Jesse Wilson on programming." xmlUrl="https://publicobject.com/rss/" type="rss" />
+		<outline text="Saket Narayan" 				title="Saket Narayan" 				description="A wild developer appears. He works at Square on Cash App in Canada, and is a GDE. Find him on Twitter." xmlUrl="https://saket.me/feed/" type="rss" />
+		<outline text="Zac Sweers" 					title="Zac Sweers" 					description="Life, travel, code, and the whitespace in between." xmlUrl="https://www.zacsweers.dev/rss/" type="rss" />
+		<outline text="Zarah Dominguez" 			title="Zarah Dominguez" 			description="An Android Love Affair" xmlUrl="https://zarah.dev/feed.xml" type="rss" />
+		<outline text="chRyNaN Codes"				title="chRyNaN Codes" 				description="Software Development Blog" xmlUrl="https://chrynan.codes/rss/" type="rss" />
+		<outline text="goobar" 						title="goobar" 						description="dream / learn / create" xmlUrl="https://goobar.io/feed" type="rss" />
+		<outline text="zsmb.co" 					title="zsmb.co" 					description="Recent content on zsmb.co" xmlUrl="https://zsmb.co/index.xml" type="rss" />
+    </outline>
+    <outline text="Android" title="Android">
+    	<outline text="Android Blog" 		title="Android Blog" 		description="The official source for news about Android." xmlUrl="https://blog.google/products/android/rss" type="rss" />
+		<outline text="Android Authority" 	title="Android Authority" 	description="Android News, Reviews, How To" xmlUrl="https://www.androidauthority.com/feed" type="rss" />
+		<outline text="Android Central" 	title="Android Central" 	description="Android Forums, News, Reviews, Help and Android Wallpapers" xmlUrl="https://feeds.androidcentral.com/androidcentral" type="rss" />
+		<outline text="Android Community" 	title="Android Community" 	description="Android News, Reviews, and Apps" xmlUrl="https://androidcommunity.com/feed/" type="rss" />
+		<outline text="AndroidGuys" 		title="AndroidGuys" 		description="Android news and opinion" xmlUrl="https://www.androidguys.com/feed" type="rss" />
+		<outline text="Cult of Android" 	title="Cult of Android" 	description="Breaking news for Android fans" xmlUrl="https://www.cultofandroid.com/feed" type="rss" />
+		<outline text="Cyanogen Mods" 		title="Cyanogen Mods" 		description="Mod APK | GCam | LineageOS" xmlUrl="https://www.cyanogenmods.org/feed" type="rss" />
+		<outline text="Droid Life" 			title="Droid Life" 			description="Opinionated Android news." xmlUrl="https://www.droid-life.com/feed" type="rss" />
+		<outline text="GSMArena.com" 		title="GSMArena.com"		description="GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order." xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" type="rss" />
+		<outline text="xda-developers" 		title="xda-developers" 		description="Android and Windows Phone Development Community" xmlUrl="https://data.xda-developers.com/portal-feed" type="rss" />
+    </outline>
+    <outline text="Apple" title="Apple">
+   		<outline text="9to5Mac" 				title="9to5Mac" 			description="Apple News and Mac Rumors Breaking All Day" xmlUrl="https://9to5mac.com/feed" type="rss" />
+		<outline text="Apple Newsroom" 			title="Apple Newsroom" 		description="Official Apple News" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" type="rss" />
+		<outline text="AppleInsider News" 		title="AppleInsider News" 	description="AppleInsider News Feed" xmlUrl="https://appleinsider.com/rss/news/" type="rss" />
+		<outline text="Cult of Mac" 			title="Cult of Mac" 		description="Tech and culture through an Apple lens" xmlUrl="https://www.cultofmac.com/feed" type="rss" />
+		<outline text="Daring Fireball" 		title="Daring Fireball" 	description="By John Gruber" xmlUrl="https://daringfireball.net/feeds/main" type="rss" />
+		<outline text="MacRumors" 				title="MacRumors" 			description="Apple, iPhone, iPad, Mac News and Rumors" xmlUrl="https://feeds.macrumors.com/MacRumors-Mac" type="rss" />
+		<outline text="MacStories" 				title="MacStories" 			description="Apple news, app reviews, and stories by Federico Viticci and friends." xmlUrl="https://www.macstories.net/feed" type="rss" />
+		<outline text="Macworld.com" 			title="Macworld.com" 		description="Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love." xmlUrl="https://www.macworld.com/index.rss" type="rss" />
+		<outline text="Marco.org" 				title="Marco.org" 			description="I'm Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast." xmlUrl="https://marco.org/rss" type="rss" />
+		<outline text="The Loop" 				title="The Loop" 			description="Making Sense of Technology" xmlUrl="https://www.loopinsight.com/feed" type="rss" />
+    </outline>
+    <outline text="Architecture" title="Architecture">
+    	<outline text="Archinect - News" 					title="Archinect - News" 			description="Connecting architects since 1997" xmlUrl="https://archinect.com/feed/1/news" type="rss" />
+		<outline text="Architectural Digest" 				title="Architectural Digest" 		description="The latest from www.architecturaldigest.com" xmlUrl="https://www.architecturaldigest.com/feed/rss" type="rss" />
+		<outline text="Architecture - Dezeen" 				title="Architecture - Dezeen" 		description="architecture and design magazine" xmlUrl="https://www.dezeen.com/architecture/feed/" type="rss" />
+		<outline text="CONTEMPORIST" 						title="CONTEMPORIST" 				description="Contemporist features great ideas from the world of design, architecture, interior design, furniture, lighting, and art" xmlUrl="https://www.contemporist.com/feed/" type="rss" />
+		<outline text="inhabitat.com:" 						title="inhabitat.com" 				description="Green design and innovation for a better world" xmlUrl="https://inhabitat.com/architecture/feed/" type="rss" />
+		<outline text="Design Milk - Architecture" 			title="Design Milk - Architecture" 	description="Dedicated to modern design" xmlUrl="https://design-milk.com/category/architecture/feed/" type="rss" />
+		<outline text="Architizer Journal" 					title="Architizer Journal"			description="Inspiration and Tools for Architects" xmlUrl="https://architizer.wpengine.com/feed/" type="rss" />
+		<outline text="The Architect's Newspaper" 			title="The Architect's Newspaper" 	description="The most authoritative voice on architecture and design in the United States." xmlUrl="https://archpaper.com/feed" type="rss" />
+		<outline text="designboom" 							title="designboom" 					description="your first source for architecture, design and art news" xmlUrl="https://www.designboom.com/architecture/feed/" type="rss" />
+    </outline>
+    <outline text="Beauty and Fashion" title="Beauty">
+    	<outline text="ELLE | Beauty" 			title="ELLE | Beauty" 			description="" xmlUrl="https://www.elle.com/rss/beauty.xml/" type="rss" />
+		<outline text="ELLE | Fashion"          title="ELLE | Fashion"          description="" xmlUrl="https://www.elle.com/rss/fashion.xml/" type="rss" />
+        <outline text="Fashionista" 			title="Fashionista" 			description="" xmlUrl="https://fashionista.com/.rss/excerpt/beauty" type="rss" />
+		<outline text="Fashion Lady" 			title="Fashion Lady" 			description="" xmlUrl="https://www.fashionlady.in/category/beauty-tips/feed" type="rss" />
+		<outline text="The Beauty Brains" 		title="The Beauty Brains"		description="Real scientists answer your beauty questions" xmlUrl="https://thebeautybrains.com/blog/feed/" type="rss" />
+		<outline text="DORÉ" 					title="DORÉ" 					description="" xmlUrl="https://www.wearedore.com/feed" type="rss" />
+		<outline text="POPSUGAR | Beauty" 		title="POPSUGAR | Beauty" 		description="Top Beauty Stories" xmlUrl="https://www.popsugar.com/beauty/feed" type="rss" />
+		<outline text="POPSUGAR | Fashion"      title="POPSUGAR | Fashion"      description="Top Fashion Stories" xmlUrl="https://www.popsugar.com/fashion/feed" type="rss" />
+        <outline text="Refinery29" 				title="Refinery29" 				description="" xmlUrl="https://www.refinery29.com/beauty/rss.xml" type="rss" />
+		<outline text="THE YESSTYLIST" 			title="THE YESSTYLIST" 			description="" xmlUrl="https://www.yesstyle.com/blog/category/the-beauty-blog/feed/" type="rss" />
+		<outline text="The Beauty Look Book" 	title="The Beauty Look Book" 	description="Beauty Blog, Reviews + Makeup Looks" xmlUrl="https://thebeautylookbook.com/feed" type="rss" />
+    	<outline text="The Guardian | Fashion"  title="Fashion | The Guardian"  description="The latest fashion news, advice and comment from the Guardian" xmlUrl="https://www.theguardian.com/fashion/rss" type="rss" />
+		<outline text="FashionBeans"            title="FashionBeans"            description="A comprehensive guide to men's fashion and style, from the latest trends and hottest pieces to building a capsule wardrobe." xmlUrl="https://www.fashionbeans.com/rss-feed/?category=fashion" type="rss" />
+		<outline text="NYT | Style"             title="NYT | Style"             description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml" type="rss" />
+		<outline text="Refinery29"              title="Refinery29"              description="Refinery29" xmlUrl="https://www.refinery29.com/fashion/rss.xml" type="rss" />
+		<outline text="Who What Wear"           title="Who What Wear"           description="" xmlUrl="https://www.whowhatwear.com/rss" type="rss" />    
+    </outline>
+    <outline text="Books" title="Books">
+    	<outline text="A year of reading the world" 	title="A year of reading the world" 	description="196 countries, countless stories..." xmlUrl="https://ayearofreadingtheworld.com/feed/" type="rss" />
+		<outline text="Aestas Book Blog" 				title="Aestas Book Blog" 				description="Romance book reviews. Reviews of books that make my heart race, have a beautiful love story, and a happy ending." xmlUrl="https://aestasbookblog.com/feed/" type="rss" />
+		<outline text="BOOK RIOT" 						title="BOOK RIOT" 						description="Book Recommendations and Reviews" xmlUrl="https://bookriot.com/feed/" type="rss" />
+		<outline text="Kirkus Reviews" 					title="Kirkus Reviews" 					description="Latest book reviews from Kirkus Reviews." xmlUrl="https://www.kirkusreviews.com/feeds/rss/" type="rss" />
+		<outline text="Page Array - NewInBooks" 		title="Page Array - NewInBooks" 		description="Answering the Age old question - What are you reading?" xmlUrl="https://www.newinbooks.com/feed/" type="rss" />
+		<outline text="Wokeread" 						title="Wokeread" 						description="Books any time any day." xmlUrl="https://wokeread.home.blog/feed/" type="rss" />
+    </outline>
+    <outline text="Business and Economy" title="Business and Economy">
+    	<outline text="Investing.com" 				title="Investing.com" 			description="" xmlUrl="https://www.investing.com/rss/news.rss" type="rss" />
+		<outline text="Duct Tape Marketing" 		title="Duct Tape Marketing" 	description="Interviews with authors, experts and thought leaders sharing business marketing tips, tactics and resources hosted by one America's leading small business marketing experts - John Jantsch" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
+		<outline text="Economic Times" 				title="Economic Times" 			description="The Economic Times: Latest business, finance, markets, stocks, company news from India." xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
+		<outline text="Forbes - Business" 			title="Forbes - Business" 		description="Forbes - Business" xmlUrl="https://www.forbes.com/business/feed/" type="rss" />
+		<outline text="Fortune" 					title="Fortune" 				description="Fortune 500 Daily and Breaking Business News" xmlUrl="https://fortune.com/feed" type="rss" />
+		<outline text="Business Standard" 			title="Business Standard" 		description="Get latest stock share market news, financial news, economy news, company news, politics news, India news, breaking news, Indian economy news at Business Standard. Catch Nifty Sensex Live updates." xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" type="rss" />
+		<outline text="The Growth Show" 			title="The Growth Show" 		description="It's never been easier to start a business, but it's even harder to succeed. Each episode explores the inspiring stories behind how people grow a business, an idea, or a movement." xmlUrl="https://thegrowthshow.hubspot.libsynpro.com/" type="rss" />
+		<outline text="CNBC" 						title="CNBC" 					description="CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information." xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" type="rss" />
+		<outline text="Yahoo Finance" 				title="Yahoo Finance" 			description="At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life." xmlUrl="https://finance.yahoo.com/news/rssindex" type="rss" />
+    </outline>
+    <outline text="Cars" title="Cars">
+    	<outline text="Autoblog" 						title="Autoblog" 							description="" xmlUrl="https://www.autoblog.com/rss.xml" type="rss" />
+		<outline text="Autocar India - Bike Reviews" 	title="Autocar India - Bike Reviews" 		description="Bike news, reviews, and videos." xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes" type="rss" />
+		<outline text="Autocar India - Car Reviews" 	title="Autocar India - Car Reviews" 		description="Car news, reviews, and videos." xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=all_cars" type="rss" />
+		<outline text="Autocar India - News" 			title="Autocar India - News" 				description="" xmlUrl="https://www.autocarindia.com/RSS/rss.ashx?type=News" type="rss" />
+		<outline text="Autocar RSS Feed" 				title="Autocar RSS Feed" 					description="Welcome to nirvana for car enthusiasts. You have just entered the online home of the world's oldest car magazine, and the only place on the internet where you can find Autocar's unique mix of up-to-the-minute news, red hot car reviews, conclusive road test verdicts, and a lot more besides." xmlUrl="https://www.autocar.co.uk/rss" type="rss" />
+		<outline text="Bike EXIF" 						title="Bike EXIF" 							description="The world's most exciting custom motorcycles, from cafe racers to bobbers to scramblers and street trackers." xmlUrl="https://www.bikeexif.com/feed" type="rss" />
+		<outline text="Car Body Design" 				title="Car Body Design" 					description="Car Design Resources, News and Tutorials" xmlUrl="https://www.carbodydesign.com/feed/" type="rss" />
+		<outline text="Carscoops" 						title="Carscoops" 							description="Breaking Car News, Scoops and Reviews" xmlUrl="https://www.carscoops.com/feed/" type="rss" />
+		<outline text="Jalopnik" 						title="Jalopnik" 							description="The Cult of Cars, Racing and Everything That Moves You." xmlUrl="https://jalopnik.com/rss" type="rss" />
+		<outline text="Car and Driver" 					title="Car and Driver" 						description="" xmlUrl="https://www.caranddriver.com/rss/all.xml/" type="rss" />
+		<outline text="Petrolicious" 					title="Petrolicious" 						description="Petrolicious is a leading automotive lifestyle brand providing world class short films and tasteful editorial around the world's finest classic vehicles." xmlUrl="https://petrolicious.com/feed" type="rss" />
+		<outline text="Speedhunters" 					title="Speedhunters" 						description="Global Car Culture Since 2008" xmlUrl="https://feeds.feedburner.com/speedhunters" type="rss" />
+		<outline text="The Truth About Cars" 			title="The Truth About Cars" 				description="The Truth About Cars is dedicated to providing candid, unbiased automobile reviews and the latest in auto industry news." xmlUrl="https://www.thetruthaboutcars.com/feed/" type="rss" />
+		<outline text="Bring a Trailer" 				title="Bring a Trailer" 					description="Barn finds, rally cars, and needles in the haystack." xmlUrl="https://bringatrailer.com/feed/" type="rss" />
+    </outline>
+    <outline text="Cricket" title="Cricket">
+    	<outline text="BBC Sport | Cricket" 		title="BBC Sport | Cricket" 		description="" xmlUrl="https://feeds.bbci.co.uk/sport/cricket/rss.xml" type="rss" />
+		<outline text="Cricinfo.com" 				title="Cricinfo.com" 				description="Visit Cricinfo.com for up-to-the-minute cricket news, breaking cricket news, live cricket commentary, ball-by-ball commentary, cricket video, cricket audio and features." xmlUrl="https://www.espncricinfo.com/rss/content/story/feeds/0.xml" type="rss" />
+		<outline text="The Guardian | Cricket" 		title="The Guardian | Cricket" 		description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/sport/cricket/rss" type="rss" />
+		<outline text="The Roar | Cricket" 			title="The Roar | Cricket" 			description="Australia's Biggest Sporting Debate" xmlUrl="https://www.theroar.com.au/cricket/feed/" type="rss" />
+		<outline text="The Analyst Inside Cricket" 	title="The Analyst Inside Cricket" 	description="Sharp analysis and opinion from the cricket world with Simon Hughes, The Analyst and the BBC's Simon Mann, featuring comment, analysis, interviews with international players and celebrity guests." xmlUrl="https://rss.acast.com/theanalystinsidecricket" type="rss" />
+		<outline text="Wisden" 						title="Wisden" 						description="The independent voice of cricket" xmlUrl="https://www.wisden.com/feed" type="rss" />
+    </outline>
+    <outline text="Design" title="Design">		
+        <outline text="Smashing Magazine" 		title="Smashing Magazine" 		description="Recent content in Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
+		<outline text="Boxes and Arrows" 		title="Boxes and Arrows" 		description="The design behind the design." xmlUrl="https://boxesandarrows.com/rss/" type="rss" />
+		<outline text="Designer News Feed" 		title="Designer News Feed" 		description="All of the stories from the frontpage of Designer News" xmlUrl="https://www.designernews.co/?format=rss" type="rss" />
+		<outline text="Inside Design" 			title="Inside Design"			description="Thoughts on users, experience, and design" xmlUrl="https://www.invisionapp.com/inside-design/feed" type="rss" />
+		<outline text="NN/g" 					title="NN/g" 					description="The latest articles and announcements from Nielsen Norman Group" xmlUrl="https://www.nngroup.com/feed/rss/" type="rss" />
+		<outline text="UX Blog - UX Studio" 	title="UX Blog - UX Studio" 	description="UX design blog about designing user experience for web and mobile apps with UX research and focus on usability and ergonomics" xmlUrl="https://uxstudioteam.com/ux-blog/feed/" type="rss" />
+		<outline text="UX Movement" 			title="UX Movement" 			description="UX Movement is an independent publication that teaches you how to improve the user experience of your apps, websites, and interfaces through the tips, techniques, and best practices we recommend." xmlUrl="https://uxmovement.com/feed/" type="rss" />
+		<outline text="Usability Geek" 			title="Usability Geek" 			description="Usability and User Experience (UX) Blog" xmlUrl="https://usabilitygeek.com/feed/" type="rss" />
+    </outline>
+    <outline text="DIY" title="DIY">		
+        <outline text="A Beautiful Mess" 	title="A Beautiful Mess" 		description="Crafts, Home Décor, Recipes" xmlUrl="https://abeautifulmess.com/feed" type="rss" />
+		<outline text="Apartment Therapy" 	title="Apartment Therapy" 		description="Saving the world, one room at a time" xmlUrl="https://www.apartmenttherapy.com/projects.rss" type="rss" />
+		<outline text="Hackaday" 			title="Hackaday" 				description="Fresh hacks every day" xmlUrl="https://hackaday.com/blog/feed/" type="rss" />
+		<outline text="Centsational Style" 	title="Centsational Style" 		description="Design, Decorating and DIY" xmlUrl="https://centsationalstyle.com/feed/" type="rss" />
+		<outline text="Doityourself.com" 	title="Doityourself.com" 		description="Do it yourself home improvement and diy repair at Doityourself.com. Includes home improvement projects, home repair, kitchen remodeling, plumbing, electrical, painting, real estate, and decorating." xmlUrl="https://www.doityourself.com/feed" type="rss" />
+		<outline text="Etsy Journal" 		title="Etsy Journal" 			description="Ideas and inspiration for creative living." xmlUrl="https://blog.etsy.com/en/feed/" type="rss" />
+		<outline text="How-To Geek" 		title="How-To Geek" 			description="We Explain Technology" xmlUrl="https://www.howtogeek.com/feed/" type="rss" />
+		<outline text="IKEA Hackers" 		title="IKEA Hackers" 			description="Clever ideas and hacks for your IKEA" xmlUrl="https://www.ikeahackers.net/feed" type="rss" />
+		<outline text="MUO" 				title="MUO" 					description="MUO is your guide in modern tech. Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet." xmlUrl="https://www.makeuseof.com/feed/" type="rss" />
+		<outline text="Oh Happy Day!" 		title="Oh Happy Day!" 			description="Oh Happy Day is a party and lifestyle blog based in San Francisco. We love to throw parties and make things!" xmlUrl="https://ohhappyday.com/feed/" type="rss" />
+		<outline text="WonderHowTo" 		title="WonderHowTo" 			description="Hot new how-to videos and articles on WonderHowTo." xmlUrl="https://www.wonderhowto.com/rss.xml" type="rss" />
+    </outline>
+    <outline text="Food" title="Food">
+    	<outline text="101 Cookbooks"               title="101 Cookbooks"           description="When you own over 100 cookbooks, it is time to stop buying, and start cooking. This site chronicles a cookbook collection, one recipe at a time." xmlUrl="https://www.101cookbooks.com/feed" type="rss" />
+		<outline text="Chocolate and Zucchini"      title="Chocolate and Zucchini"  description="Simple Recipes from my Paris Kitchen" xmlUrl="https://cnz.to/feed/" type="rss" />
+		<outline text="David Lebovitz"              title="David Lebovitz"          description="Baking and cooking recipes for everyone" xmlUrl="https://www.davidlebovitz.com/feed/" type="rss" />
+		<outline text="Green Kitchen Stories"       title="Green Kitchen Stories"   description="Healthy Vegetarian Recipes." xmlUrl="https://greenkitchenstories.com/feed/" type="rss" />
+		<outline text="How Sweet Eats"              title="How Sweet Eats"          description="For people who, like, totally love food." xmlUrl="https://www.howsweeteats.com/feed/" type="rss" />
+		<outline text="Joy the Baker"               title="Joy the Baker"           description="" xmlUrl="https://joythebaker.com/feed/" type="rss" />
+		<outline text="Kitchn"                      title="Kitchn"                  description="Inspiring cooks, nourishing homes" xmlUrl="https://www.thekitchn.com/main.rss" type="rss" />
+		<outline text="Love and Olive Oil"          title="Love and Olive Oil"      description="Eat to Live. Cook to Love." xmlUrl="https://www.loveandoliveoil.com/feed" type="rss" />
+		<outline text="NYT | Food"                  title="NYT | Food"              description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" type="rss" />
+		<outline text="Oh She Glows"                title="Oh She Glows"            description="Vegan Recipes to Glow From The Inside Out" xmlUrl="https://ohsheglows.com/feed/" type="rss" />
+		<outline text="Shutterbean"                 title="Shutterbean"             description="food, photography and inspiration" xmlUrl="https://www.shutterbean.com/feed/" type="rss" />
+		<outline text="Skinnytaste"                 title="Skinnytaste"             description="Delicious Healthy Recipes Made with Real Food" xmlUrl="https://www.skinnytaste.com/feed/" type="rss" />
+		<outline text="Sprouted Kitchen"            title="Sprouted Kitchen"        description="" xmlUrl="https://www.sproutedkitchen.com/home?format=rss" type="rss" />
+		<outline text="Williams-Sonoma Taste"       title="Williams-Sonoma Taste"   description="" xmlUrl="https://blog.williams-sonoma.com/feed/" type="rss" />
+    </outline>
+    <outline text="Football (Soccer)" title="Football (Soccer)">
+		<outline text="Goal.com"                    title="Goal.com"                description="The latest football news, rumours, transfers and match reports from around the world." xmlUrl="https://www.goal.com/feeds/en/news" type="rss" />
+		<outline text="Football365"                 title="Football365"             description="Views, Live Matches, Gossip and more | Football365.com" xmlUrl="https://www.football365.com/feed" type="rss" />
+		<outline text="Soccer News"                 title="Soccer News"             description="The Latest Soccer News from around the globe." xmlUrl="https://www.soccernews.com/feed" type="rss" />
+     </outline>
+    <outline text="Funny" title="Funny">
+    	<outline text="AwkwardFamilyPhotos.com"             title="AwkwardFamilyPhotos.com"             description="Spreading the Awkwardness" xmlUrl="https://awkwardfamilyphotos.com/feed/" type="rss" />
+		<outline text="Cracked"                             title="Cracked"                             description="Every post that goes up on Cracked.com" xmlUrl="https://feeds.feedburner.com/CrackedRSS" type="rss" />
+		<outline text="Explosm.net"                         title="Explosm.net"                         description="Flash Animations, Daily Comics and more!" xmlUrl="https://feeds.feedburner.com/Explosm" type="rss" />
+		<outline text="FAIL Blog"                           title="FAIL Blog"                           description="The internet has generated a huge amount of laughs from cats and FAILS. And we all out of cats." xmlUrl="https://feeds.feedburner.com/failblog" type="rss" />
+		<outline text="I Can Has Cheezburger?"              title="I Can Has Cheezburger?"              description="World's largest collection of cat memes and other animals" xmlUrl="https://feeds.feedburner.com/icanhascheezburger" type="rss" />
+		<outline text="PHD Comics"                          title="PHD Comics"                          description="Providing global up-to-the-minute procrastination!" xmlUrl="https://phdcomics.com/gradfeed.php" type="rss" />
+		<outline text="Penny Arcade"                        title="Penny Arcade"                        description="News Fucker 6000" xmlUrl="https://www.penny-arcade.com/feed" type="rss" />
+		<outline text="PostSecret"                          title="PostSecret"                          description="" xmlUrl="https://postsecret.com/feed/?alt=rss" type="rss" />
+		<outline text="Saturday Morning Breakfast Cereal"   title="Saturday Morning Breakfast Cereal"   description="Latest Saturday Morning Breakfast Cereal comics and news" xmlUrl="https://www.smbc-comics.com/comic/rss" type="rss" />
+		<outline text="The Bloggess"                        title="The Bloggess"                        description="Like Mother Teresa, only better." xmlUrl="https://thebloggess.com/feed/" type="rss" />
+		<outline text="The Daily WTF"                       title="The Daily WTF"                       description="Curious Perversions in Information Technology" xmlUrl="https://syndication.thedailywtf.com/TheDailyWtf" type="rss" />
+		<outline text="The Oatmeal"                         title="The Oatmeal"                         description="I make comics about science, cats, technology, and sometimes goats." xmlUrl="https://feeds.feedburner.com/oatmealfeed" type="rss" />
+		<outline text="The Onion"                           title="The Onion"                           description="America's Finest News Source." xmlUrl="https://www.theonion.com/rss" type="rss" />
+		<outline text="xkcd.com"                            title="xkcd.com"                            description="xkcd.com: A webcomic of romance and math humor." xmlUrl="https://xkcd.com/rss.xml" type="rss" />
+    </outline>
+    <outline text="Gaming" title="Gaming">
+    	<outline text="Escapist Magazine"       title="Escapist Magazine"       description="Everything fun" xmlUrl="https://www.escapistmagazine.com/v2/feed/" type="rss" />
+		<outline text="Eurogamer.net"           title="Eurogamer.net"           description="Bad puns and video games since 1999." xmlUrl="https://www.eurogamer.net/?format=rss" type="rss" />
+		<outline text="Gamasutra News"          title="Gamasutra News"          description="" xmlUrl="https://feeds.feedburner.com/GamasutraNews" type="rss" />
+		<outline text="GameSpot"                title="GameSpot"                description="GameSpot's Everything Feed! All the latest from GameSpot" xmlUrl="https://www.gamespot.com/feeds/mashup/" type="rss" />
+		<outline text="IGN"                     title="IGN"                     description="The latest IGN news, reviews and videos about video games, movies, TV, tech and comics" xmlUrl="https://feeds.ign.com/ign/all" type="rss" />
+		<outline text="Indie Games Plus"        title="Indie Games Plus"        description="Creative, Personal, Passionate Digital Experiences" xmlUrl="https://indiegamesplus.com/feed" type="rss" />
+		<outline text="Kotaku"                  title="Kotaku"                  description="Gaming Reviews, News, Tips and More." xmlUrl="https://kotaku.com/rss" type="rss" />
+		<outline text="PlayStation.Blog"        title="PlayStation.Blog"        description="Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more." xmlUrl="https://feeds.feedburner.com/psblog" type="rss" />
+		<outline text="Polygon"                 title="Polygon"                 description="" xmlUrl="https://www.polygon.com/rss/index.xml" type="rss" />
+		<outline text="Rock, Paper, Shotgun"    title="Rock, Paper, Shotgun"    description="This is a feed of all the latest articles from Rock Paper Shotgun." xmlUrl="https://feeds.feedburner.com/RockPaperShotgun" type="rss" />
+		<outline text="Steam RSS News Feed"     title="Steam RSS News Feed"     description="All Steam news, all the time!" xmlUrl="https://store.steampowered.com/feeds/news.xml" type="rss" />
+		<outline text="The Ancient Gaming Noob" title="The Ancient Gaming Noob" description="Veni, Vidi, Scripsi" xmlUrl="https://feeds.feedburner.com/TheAncientGamingNoob" type="rss" />
+		<outline text="TouchArcade"             title="TouchArcade"             description="iPhone and iPad Games and News" xmlUrl="https://toucharcade.com/community/forums/-/index.rss" type="rss" />
+		<outline text="Xbox's Major Nelson"     title="Xbox's Major Nelson"     description="Xbox news and facts direct from the source" xmlUrl="https://majornelson.com/feed/" type="rss" />
+    </outline>
+    <outline text="History" title="History">
+    	<outline text="American History"    title="American History"        description="" xmlUrl="https://americanhistory.si.edu/blog/feed" type="rss" />
+		<outline text="HistoryNet"          title="HistoryNet"              description="HistoryNet.com contains daily features, photo galleries and over 5,000 articles originally published in our various magazines." xmlUrl="https://www.historynet.com/feed" type="rss" />
+		<outline text="The History Reader"  title="The History Reader"      description="A History Blog from St. Martin's Press" xmlUrl="https://www.thehistoryreader.com/feed/" type="rss" />
+		<outline text="The Memory Palace"   title="The Memory Palace"       description="" xmlUrl="https://feeds.thememorypalace.us/thememorypalace" type="rss" />
+    </outline>
+    <outline text="Interior Design" title="Interior Design">
+    	<outline text="Apartment Therapy"               title="Apartment Therapy"               description="Saving the world, one room at a time" xmlUrl="https://www.apartmenttherapy.com/design.rss" type="rss" />
+		<outline text="Better Living Through Design"    title="Better Living Through Design"    description="Your Design Guide to Home and Style." xmlUrl="https://www.betterlivingthroughdesign.com/feed/" type="rss" />
+		<outline text="decor8"                          title="decor8"                          description="An expertly curated guide for stylish home and living. Holly Becker helps you to find your personal style, pull it all together, and create a space that you love." xmlUrl="https://www.decor8blog.com/blog?format=rss" type="rss" />
+		<outline text="Core77"                          title="Core77"                          description="Launched in 1995, Core77 serves a devoted global audience of design professionals, corporations, students, enthusiasts and fans." xmlUrl="https://feeds.feedburner.com/core77/blog" type="rss" />
+		<outline text="Design Milk | Interior Design"   title="Design Milk | Interior Design"   description="Dedicated to modern design" xmlUrl="https://design-milk.com/category/interior-design/feed/" type="rss" />
+		<outline text="Fubiz Media"                     title="Fubiz Media"                     description="The latest creative news from Fubiz about art, design and pop-culture." xmlUrl="https://feeds.feedburner.com/fubiz" type="rss" />
+		<outline text="Ideal Home"                      title="Ideal Home"                      description="" xmlUrl="https://www.idealhome.co.uk/feed" type="rss" />
+		<outline text="In My Own Style"                 title="In My Own Style"                 description="Top Budget DIY Home Decorating Blog + Creative Lifestyle Ideas + Tutorials." xmlUrl="https://inmyownstyle.com/feed" type="rss" />
+		<outline text="Inhabitat"                       title="Inhabitat"                       description="Green design and innovation for a better world" xmlUrl="https://inhabitat.com/design/feed/" type="rss" />
+		<outline text="Home-Design"                     title="Home-Design"                     description="Inspirational Interior Design Ideas" xmlUrl="https://www.home-designing.com/feed" type="rss" />
+		<outline text="Interior Design"                 title="Interior Design"                 description="Latest content from interiordesign.net" xmlUrl="https://www.interiordesign.net/rss/" type="rss" />
+		<outline text="Dezeen | Interior Design"        title="Dezeen | Interior Design"        description="architecture and design magazine" xmlUrl="https://www.dezeen.com/interiors/feed/" type="rss" />
+		<outline text="Liz Marie Blog"                  title="Liz Marie Blog"                  description="" xmlUrl="https://www.lizmarieblog.com/feed/" type="rss" />
+		<outline text="The Design Files"                title="The Design Files"                description="Australia's most popular design blog." xmlUrl="https://thedesignfiles.net/feed/" type="rss" />
+		<outline text="The Inspired Room"               title="The Inspired Room"               description="Voted Readers' Favorite Top Decorating Blog Better Homes and Gardens, Decorating Ideas, How to Organize, How to Decorate, Interior Design Blog" xmlUrl="https://theinspiredroom.net/feed/" type="rss" />
+		<outline text="Thrifty Decor Chick"             title="Thrifty Decor Chick"             description="Thrifty decorating blog with easy DIY, decor, entertaining and organizing ideas. Make your home beautiful for less." xmlUrl="https://feeds.feedburner.com/blogspot/ZBcZ" type="rss" />
+		<outline text="Trendir"                         title="Trendir"                         description="The Latest Trends in Modern House Design and Decorating" xmlUrl="https://www.trendir.com/feed/" type="rss" />
+		<outline text="Yanko Design"                    title="Yanko Design"                    description="Modern Industrial Design News" xmlUrl="https://feeds.feedburner.com/yankodesign" type="rss" />
+		<outline text="Yatzer"                          title="Yatzer"                          description="" xmlUrl="https://www.yatzer.com/rss.xml" type="rss" />
+		<outline text="Young House Love"                title="Young House Love"                description="DIY Home Decorating Projects, Tutorials, and Shenanigans" xmlUrl="https://www.younghouselove.com/feed/" type="rss" />
+		<outline text="decoist"                         title="decoist"                         description="Obsessed with the cult of beauty" xmlUrl="https://www.decoist.com/feed/" type="rss" />
+		<outline text="designboom | Interior Design"    title="designboom | Interior Design"    description="your first source for architecture, design and art news" xmlUrl="https://www.designboom.com/design/feed" type="rss" />
+		<outline text="sfgirlbybay"                     title="sfgirlbybay"                     description="bohemian modern style from a san francisco girl." xmlUrl="https://www.sfgirlbybay.com/feed/" type="rss" />
+    </outline>
+    <outline text="iOS Development" title="iOS Development">
+		<outline text="Alberto De Bortoli"      title="Alberto De Bortoli"      description="Principal Software Engineer @ Just Eat Takeaway. Based in London, made in Italy." xmlUrl="https://albertodebortoli.com/rss/" type="rss" />
+		<outline text="Augmented Code"          title="Augmented Code"          description="Performant, sleek and elegant." xmlUrl="https://augmentedcode.io/feed/" type="rss" />
+		<outline text="Benoit Pasquier"         title="Benoit Pasquier"         description="Recent content on Benoit Pasquier - Swift, Data and more" xmlUrl="https://benoitpasquier.com/index.xml" type="rss" />
+		<outline text="Fabisevi.ch"             title="Fabisevi.ch"             description="An indie developer building Red Panda Club Inc. Writing personally here and teaching people about engineering, design, business, and more @build.ms." xmlUrl="https://www.fabisevi.ch/feed.xml" type="rss" />
+		<outline text="Mobile A11y"             title="Mobile A11y"             description="Recent content on Mobile A11y" xmlUrl="https://mobilea11y.com/index.xml" type="rss" />
+		<outline text="Apple Developer"         title="Apple Developer"         description="" xmlUrl="https://developer.apple.com/news/rss/news.rss" type="rss" />
+		<outline text="Ole Begemann"            title="Ole Begemann"            description="" xmlUrl="https://oleb.net/blog/atom.xml" type="rss" />
+		<outline text="Pavel Zak's dev blog"    title="Pavel Zak's dev blog"    description="Yet another dev blog" xmlUrl="https://nerdyak.tech/feed.xml" type="rss" />
+		<outline text="Swift by Sundell"        title="Swift by Sundell"        description="Weekly Swift articles, podcasts and tips by John Sundell" xmlUrl="https://www.swiftbysundell.com/feed.rss" type="rss" />
+		<outline text="SwiftRocks"              title="SwiftRocks"              description="SwiftRocks is a blog about how Swift works and general iOS tips and tricks." xmlUrl="https://swiftrocks.com/rss.xml" type="rss" />
+		<outline text="The Atomic Birdhouse"    title="The Atomic Birdhouse"    description="Recent content on The Atomic Birdhouse" xmlUrl="https://atomicbird.com/index.xml" type="rss" />
+		<outline text="Use Your Loaf"           title="Use Your Loaf"           description="Recent content on Use Your Loaf - iOS Development News and Tips" xmlUrl="https://useyourloaf.com/blog/rss.xml" type="rss" />
+		<outline text="inessential.com"         title="inessential.com"         description="Brent Simmons's weblog." xmlUrl="https://inessential.com/xml/rss.xml" type="rss" />
+		<outline text="tyler.io"                title="tyler.io"                description="" xmlUrl="https://tyler.io/feed/" type="rss" />
+    </outline>
+    <outline text="Movies" title="Movies">
+    	<outline text="/Film"                   title="/Film"                   description="Movie News and Reviews This feed is for non commercial use. Content Copyright Slashfilm.com." xmlUrl="https://feeds2.feedburner.com/slashfilm" type="rss" />
+		<outline text="Ain't It Cool News Feed" title="Ain't It Cool News Feed" description="The best in movie, TV, DVD and comic book news." xmlUrl="https://www.aintitcool.com/node/feed/" type="rss" />
+		<outline text="ComingSoon.net"          title="ComingSoon.net"          description="New Movies, Movie Trailers, TV, Streaming, Anime and Video Game News" xmlUrl="https://www.comingsoon.net/feed" type="rss" />
+		<outline text="Deadline"                title="Deadline"                description="Hollywood Entertainment Breaking News" xmlUrl="https://deadline.com/feed/" type="rss" />
+		<outline text="Film School Rejects"     title="Film School Rejects"     description="Movies, TV, and Culture" xmlUrl="https://filmschoolrejects.com/feed/" type="rss" />
+		<outline text="FirstShowing.net"        title="FirstShowing.net"        description="Connecting Hollywood with its Audience" xmlUrl="https://www.firstshowing.net/feed/" type="rss" />
+		<outline text="IndieWire"               title="IndieWire"               description="The Voice of Creative Independence" xmlUrl="https://www.indiewire.com/feed" type="rss" />
+		<outline text="Bleeding Cool | Movies"  title="Bleeding Cool | Movies"  description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/movies/feed/" type="rss" />
+		<outline text="The A.V. Club | Movies"  title="The A.V. Club | Movies"  description="Pop culture obsessives writing for the pop culture obsessed." xmlUrl="https://film.avclub.com/rss" type="rss" />
+		<outline text="Variety"                 title="Variety"                 description="" xmlUrl="https://variety.com/feed/" type="rss" />
+    </outline>
+    <outline text="Music" title="Music">
+    	<outline text="Billboard" title="Billboard" description="Just another WordPress site" xmlUrl="https://www.billboard.com/articles/rss.xml" type="rss" />
+		<outline text="Consequence" title="Consequence" description="Music, Film, TV and Pop Culture News for the Mainstream and Underground" xmlUrl="https://consequenceofsound.net/feed" type="rss" />
+		<outline text="EDM.com" title="EDM.com" description="The world's foremost authority on EDM : free music downloads, artist interviews, industry news, curated playlists, trending charts, and more." xmlUrl="https://edm.com/.rss/full/" type="rss" />
+		<outline text="Metal Injection" title="Metal Injection" description="Heavy metal news, metal music videos, tour dates, live footage, exclusive documentaries, funny clips and more." xmlUrl="https://feeds.feedburner.com/metalinjection" type="rss" />
+		<outline text="Music Business Worldwide" title="Music Business Worldwide" description="News, jobs and analysis for the global music industry" xmlUrl="https://www.musicbusinessworldwide.com/feed/" type="rss" />
+		<outline text="Pitchfork" title="Pitchfork" description="News content RSS feed" xmlUrl="https://pitchfork.com/rss/news" type="rss" />
+		<outline text="Your EDM" title="Your EDM" description="EDM News and Electronic Dance Music Reviews" xmlUrl="https://www.youredm.com/feed" type="rss" />
+    </outline>
+    <outline text="News" title="News">
+    	<outline text="BBC News | World" title="BBC News | World" description="" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" type="rss" />
+		<outline text="CNN.com | World" title="CNN.com | World" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." xmlUrl="https://rss.cnn.com/rss/edition_world.rss" type="rss" />
+		<outline text="CNBC | International" title="CNBC | International" description="CNBC International is the world leader for news on business, technology, China, trade, oil prices, the Middle East and markets." xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" type="rss" />
+		<outline text="NDTV News | World" title="NDTV News | World" description="NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more." xmlUrl="https://feeds.feedburner.com/ndtvnews-world-news" type="rss" />
+		<outline text="NYT | World" title="NYT | World" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" type="rss" />
+		<outline text="The Washington Post | World" title="The Washington Post | World" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues." xmlUrl="https://feeds.washingtonpost.com/rss/world" type="rss" />
+		<outline text="Times of India | World" title="Times of India | World" description="TOI brings the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide." xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" type="rss" />
+		<outline text="The Guardian | World" title="The Guardian | World" description="Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/world/rss" type="rss" />
+		<outline text="Yahoo News" title="Yahoo News" description="The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos." xmlUrl="https://www.yahoo.com/news/rss" type="rss" />
+    </outline>
+    <outline text="Personal Finance" title="Personal Finance">
+    	<outline text="Afford Anything" title="Afford Anything" description="You Can Afford Anything ... Just Not Everything. What's It Gonna Be?" xmlUrl="https://affordanything.com/feed/" type="rss" />
+		<outline text="Student Loan Hero" title="Student Loan Hero" description="" xmlUrl="https://studentloanhero.com/blog/feed" type="rss" />
+		<outline text="Budgets Are Sexy" title="Budgets Are Sexy" description="'A personal finance blog that won't put you to sleep.' - Benjamin Franklin" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" type="rss" />
+		<outline text="Financial Samurai" title="Financial Samurai" description="Slicing Through Money's Mysteries" xmlUrl="https://www.financialsamurai.com/feed/" type="rss" />
+		<outline text="Frugalwoods" title="Frugalwoods" description="Financial independence and simple living" xmlUrl="https://feeds.feedburner.com/Frugalwoods" type="rss" />
+		<outline text="Get Rich Slowly" title="Get Rich Slowly" description="personal finance that makes cents" xmlUrl="https://www.getrichslowly.org/feed/" type="rss" />
+		<outline text="Good Financial Cents" title="Good Financial Cents" description="Making Cents Of Investing and Financial Planning" xmlUrl="https://www.goodfinancialcents.com/feed/" type="rss" />
+		<outline text="I Will Teach You To Be Rich" title="I Will Teach You To Be Rich" description="by Ramit Sethi" xmlUrl="https://www.iwillteachyoutoberich.com/feed/" type="rss" />
+		<outline text="Learn To Trade The Market" title="Learn To Trade The Market" description="Learn Price Action Trading with Nial Fuller" xmlUrl="https://www.learntotradethemarket.com/feed" type="rss" />
+		<outline text="Making Sense Of Cents" title="Making Sense Of Cents" description="Learn how to make extra money, how to save money, how to start a blog, and more." xmlUrl="https://www.makingsenseofcents.com/feed" type="rss" />
+		<outline text="Millennial Money" title="Millennial Money" description="Next Level Personal Finance" xmlUrl="https://millennialmoney.com/feed/" type="rss" />
+		<outline text="MintLife Blog" title="MintLife Blog" description="Personal Finance News and Advice" xmlUrl="https://blog.mint.com/feed/" type="rss" />
+		<outline text="Money Crashers" title="Money Crashers" description="Personal Finance Guide to Turn the Tables on Money" xmlUrl="https://www.moneycrashers.com/feed/" type="rss" />
+		<outline text="Money Saving Mom®" title="Money Saving Mom®" description="Saving Families Money Since 2007" xmlUrl="https://moneysavingmom.com/feed/" type="rss" />
+		<outline text="Money Under 30" title="Money Under 30" description="" xmlUrl="https://www.moneyunder30.com/feed" type="rss" />
+		<outline text="MoneyNing" title="MoneyNing" description="Sharing insights since 2007 on carefully saving money, investing, frugal living, coupons, promo codes because the little things matter in achieving financial freedom!" xmlUrl="https://feeds.feedburner.com/MoneyNing" type="rss" />
+		<outline text="MyWifeQuitHerJob.com" title="MyWifeQuitHerJob.com" description="Starting An Online Store So Your Spouse Can Quit And Stay At Home With The Kids" xmlUrl="https://mywifequitherjob.com/feed/" type="rss" />
+		<outline text="NerdWallet" title="NerdWallet" description="NerdWallet is a free tool to find you the best credit cards, cd rates, savings, checking accounts, scholarships, healthcare and airlines. Start here to maximize your rewards or minimize your interest rates." xmlUrl="https://www.nerdwallet.com/blog/feed/" type="rss" />
+		<outline text="Oblivious Investor" title="Oblivious Investor" description="Low-Maintenance Investing with Index Funds and ETFs" xmlUrl="https://obliviousinvestor.com/feed/" type="rss" />
+		<outline text="SavingAdvice.com Blog" title="SavingAdvice.com Blog" description="Bridging the gap between saving money and investing" xmlUrl="https://www.savingadvice.com/feed/" type="rss" />
+		<outline text="Side Hustle Nation" title="Side Hustle Nation" description="Amplify your earning power" xmlUrl="https://www.sidehustlenation.com/feed" type="rss" />
+		<outline text="The College Investor" title="The College Investor" description="Student Loans, Investing, Building Wealth" xmlUrl="https://thecollegeinvestor.com/feed/" type="rss" />
+		<outline text="The Dough Roller" title="The Dough Roller" description="Money Management and Personal Finance | The Dough Roller" xmlUrl="https://www.doughroller.net/feed/" type="rss" />
+		<outline text="The Penny Hoarder" title="The Penny Hoarder" description="The Penny Hoarder is one of the largest personal finance websites in America, receiving millions of visitors each month looking to make and save extra money." xmlUrl="https://www.thepennyhoarder.com/feed/" type="rss" />
+		<outline text="Well Kept Wallet" title="Well Kept Wallet" description="" xmlUrl="https://wellkeptwallet.com/feed/" type="rss" />
+		<outline text="Wise Bread" title="Wise Bread" description="Living large on a small budget" xmlUrl="https://feeds.killeraces.com/wisebread" type="rss" />
+    </outline>
+    <outline text="Photography" title="Photography">
+    	<outline text="500px" title="500px" description="" xmlUrl="https://iso.500px.com/feed/" type="rss" />
+		<outline text="500px | Editors" title="500px | Editors" description="" xmlUrl="https://500px.com/editors.rss" type="rss" />
+		<outline text="Big Picture" title="Big Picture" description="News Stories in Photographs from the Boston Globe." xmlUrl="https://www.bostonglobe.com/rss/bigpicture" type="rss" />
+		<outline text="Canon Rumors" title="Canon Rumors" description="Your best source for Canon rumors, leaks and gossip" xmlUrl="https://www.canonrumors.com/feed/" type="rss" />
+		<outline text="Digital Photography School" title="Digital Photography School" description="Digital Photography Tips and Tutorials" xmlUrl="https://feeds.feedburner.com/DigitalPhotographySchool" type="rss" />
+		<outline text="Light Stalking" title="Light Stalking" description="Illuminating Your Passion" xmlUrl="https://www.lightstalking.com/feed/" type="rss" />
+		<outline text="Lightroom Killer Tips" title="Lightroom Killer Tips" description="Lightroom Presets, Videos, Tips and News" xmlUrl="https://lightroomkillertips.com/feed/" type="rss" />
+		<outline text="One Big Photo" title="One Big Photo" description="a Picture is Worth a Thousand Words | Submit Your Photo | World's Best Photography" xmlUrl="https://feeds.feedburner.com/OneBigPhoto" type="rss" />
+		<outline text="PetaPixel" title="PetaPixel" description="Photography and Camera News, Reviews, and Inspiration" xmlUrl="https://petapixel.com/feed/" type="rss" />
+		<outline text="Strobist" title="Strobist" description="Learn How to Light." xmlUrl="https://feeds.feedburner.com/blogspot/WOBq" type="rss" />
+		<outline text="Stuck in Customs" title="Stuck in Customs" description="Trey Ratcliff's Travel Photography blog with daily inspiration to motivate you!" xmlUrl="https://stuckincustoms.com/feed/" type="rss" />
+		<outline text="The Sartorialist" title="The Sartorialist" description="Just another WordPress site" xmlUrl="https://feeds.feedburner.com/TheSartorialist" type="rss" />
+    </outline>
+    <outline text="Programming" title="Programming">
+		<outline text="Code as Craft" title="Code as Craft" description="The Engineering Blog from Etsy" xmlUrl="https://codeascraft.com/feed/atom/" type="rss" />
+		<outline text="Coding Horror" title="Coding Horror" description="programming and human factors" xmlUrl="https://feeds.feedburner.com/codinghorror" type="rss" />
+		<outline text="Dan Abramov's Overreacted Blog" title="Dan Abramov's Overreacted " description="Personal blog by Dan Abramov. I explain with words and code." xmlUrl="https://overreacted.io/rss.xml" type="rss" />
+		<outline text="Google Developers Blog" title="Google Developers Blog" description="Blog of our latest news, updates, and stories for developers" xmlUrl="https://feeds.feedburner.com/GDBcode" type="rss" />
+		<outline text="InfoQ" title="InfoQ" description="" xmlUrl="https://feed.infoq.com" type="rss" />
+		<outline text="Java, SQL and jOOQ." title="Java, SQL and jOOQ." description="Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ." xmlUrl="https://blog.jooq.org/feed" type="rss" />
+		<outline text="JetBrains Blog" title="JetBrains Blog" description="Developer Tools for Professionals and Teams" xmlUrl="https://blog.jetbrains.com/feed" type="rss" />
+		<outline text="Joel on Software" title="Joel on Software" description="" xmlUrl="https://www.joelonsoftware.com/feed/" type="rss" />
+		<outline text="LinkedIn Engineering" title="LinkedIn Engineering" description="The official blog of the Engineering team at LinkedIn" xmlUrl="https://engineering.linkedin.com/blog.rss.html" type="rss" />
+		<outline text="Martin Fowler" title="Martin Fowler" description="Master feed of news and updates from martinfowler.com" xmlUrl="https://martinfowler.com/feed.atom" type="rss" />
+		<outline text="Overflow - Buffer Resources" title="Overflow - Buffer Resources" description="In-depth ideas and guides to social media and online marketing strategy, published by the team at Buffer" xmlUrl="https://buffer.com/resources/overflow/rss/" type="rss" />
+		<outline text="Programming Throwdown" title="Programming Throwdown" description="Programming Throwdown educates Computer Scientists and Software Engineers on a cavalcade of programming and tech topics. Every show will cover a new programming language, so listeners will be able to speak intelligently about any programming language." xmlUrl="https://feeds.feedburner.com/ProgrammingThrowdown" type="rss" />
+		<outline text="Programming - The Crazy Programmer" title="Programming - The Crazy Programmer" description="Programming, Design and Development" xmlUrl="https://www.thecrazyprogrammer.com/category/programming/feed" type="rss" />
+		<outline text="Robert Heaton" title="Robert Heaton" description="Software engineer. One-track lover down a two-way lane" xmlUrl="https://robertheaton.com/feed.xml" type="rss" />
+		<outline text="Scott Hanselman's Blog" title="Scott Hanselman's Blog" description="Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General" xmlUrl="https://feeds.hanselman.com/ScottHanselman" type="rss" />
+		<outline text="Scripting News" title="Scripting News" description="It's even worse than it appears." xmlUrl="https://scripting.com/rss.xml" type="rss" />
+		<outline text="Signal v. Noise" title="Signal v. Noise" description="Strong opinions and shared thoughts on design, business, and tech. By the makers (and friends) of Basecamp. Since 1999." xmlUrl="https://m.signalvnoise.com/feed/" type="rss" />
+		<outline text="Slack Engineering" title="Slack Engineering" description="" xmlUrl="https://slack.engineering/feed" type="rss" />
+		<outline text="SoundCloud Backstage Blog" title="SoundCloud Backstage Blog" description="SoundCloud's developer blog." xmlUrl="https://developers.soundcloud.com/blog/blog.rss" type="rss" />
+		<outline text="Spotify Engineering" title="Spotify Engineering" description="Spotify's official technology blog" xmlUrl="https://labs.spotify.com/feed/" type="rss" />
+		<outline text="Stack Abuse" title="Stack Abuse" description="Learn Python, Java, JavaScript/Node, Machine Learning, and Web Development through articles, code examples, and tutorials for developers of all skill levels." xmlUrl="https://stackabuse.com/rss/" type="rss" />
+		<outline text="Stack Overflow Blog" title="Stack Overflow Blog" description="Essays, opinions, and advice on the act of computer programming from Stack Overflow." xmlUrl="https://stackoverflow.blog/feed/" type="rss" />
+		<outline text="The 6 Figure Developer" title="The 6 Figure Developer" description="Helping others reach their potential" xmlUrl="https://6figuredev.com/feed/rss/" type="rss" />
+		<outline text="The GitHub Blog" title="The GitHub Blog" description="Updates, ideas, and inspiration from GitHub to help developers build and design software." xmlUrl="https://github.blog/feed/" type="rss" />
+    </outline>
+    <outline text="Science" title="Science">
+    	<outline text="BBC News | Science and Environment" title="BBC News - Science and Environment" description="BBC News - Science and Environment" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" type="rss" />
+		<outline text="FlowingData" title="FlowingData" description="Strength in Numbers" xmlUrl="https://flowingdata.com/feed" type="rss" />
+		<outline text="Gizmodo" title="Gizmodo" description="We come from the future" xmlUrl="https://gizmodo.com/tag/science/rss" type="rss" />
+		<outline text="ScienceDaily" title="ScienceDaily" description="" xmlUrl="https://www.sciencedaily.com/rss/all.xml" type="rss" />
+		<outline text="NYT | Science" title="NYT | Science" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" type="rss" />
+		<outline text="Nature" title="Nature" description="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community." xmlUrl="https://www.nature.com/nature.rss" type="rss" />
+		<outline text="Phys.org" title="Phys.org" description="Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine." xmlUrl="https://phys.org/rss-feed/" type="rss" />
+		<outline text="Probably Science" title="Probably Science" description="Professional comedians with so-so STEM pedigrees take you through this week in science. Incompetently. Featuring hosts Matt Kirshen, Andy Wood (and sometimes Jesse Case or Brooks Wheelan) along with a rotating cast of special guests from the worlds of comedy and science." xmlUrl="https://probablyscience.libsyn.com/rss" type="rss" />
+		<outline text="Sawbones: A Marital Tour of Misguided Medicine" title="Sawbones: A Marital Tour of Misguided Medicine" description="Join Dr. Sydnee McElroy and her husband Justin McElroy for a tour of all the dumb, bad, gross, weird and wrong ways we've tried to fix people." xmlUrl="https://feeds.simplecast.com/y1LF_sn2" type="rss" />
+		<outline text="Science Latest" title="Science Latest" description="Channel Description" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" type="rss" />
+		<outline text="Science-Based Medicine" title="Science-Based Medicine" description="Exploring issues and controversies in the relationship between science and medicine" xmlUrl="https://sciencebasedmedicine.org/feed/" type="rss" />
+		<outline text="Scientific American | Global" title="Scientific American | Global" description="Science news and technology updates from Scientific American" xmlUrl="https://rss.sciam.com/ScientificAmerican-Global" type="rss" />
+		<outline text="Shirtloads of Science" title="Shirtloads of Science" description="Dr Karl's a curious optimist - a great combination for a science lover. Join him and his guests for weird facts, amazing conversation and remember, it's never too late for a happy childhood." xmlUrl="https://shirtloadsofscience.libsyn.com/rss" type="rss" />
+    </outline>
+    <outline text="Space" title="Space">		
+        <outline text="NASA" title="NASA" description="A RSS news feed containing the latest NASA news articles and press releases." xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
+		<outline text="New Scientist | Space" title="New Scientist | Space" description="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
+		<outline text="Sky and Telescope" title="Sky and Telescope" description="The essential guide to astronomy" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />
+		<outline text="Space | The Guardian" title="Space | The Guardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
+		<outline text="Space.com" title="Space.com" description="Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity's ongoing expansion across the final frontier." xmlUrl="https://www.space.com/feeds/all" type="rss" />
+    </outline>
+    <outline text="Sports" title="Sports">
+    	<outline text="BBC Sport" title="BBC Sport" description="" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml" type="rss" />
+		<outline text="Sky News | Sports" title="Sky News | Sports" description="The best sports coverage from around the world, covering: Football, Cricket, Golf, Rugby, WWE, Boxing, Tennis and much more." xmlUrl="https://feeds.skynews.com/feeds/rss/sports.xml" type="rss" />
+		<outline text="Sportskeeda" title="Sportskeeda" description="Sports Writers Unite" xmlUrl="https://www.sportskeeda.com/feed" type="rss" />
+		<outline text="Yahoo! Sports" title="Yahoo! Sports" description="Comprehensive news, scores, standings, fantasy games, rumors, and more" xmlUrl="https://sports.yahoo.com/rss/" type="rss" />
+		<outline text="ESPN" title="ESPN" description="Latest TOP news from www.espn.com" xmlUrl="https://www.espn.com/espn/rss/news" type="rss" />
+    </outline>
+    <outline text="Startups" title="Startups">
+    	<outline text="AVC" title="AVC" description="Musings of a VC in NYC" xmlUrl="https://avc.com/feed/" type="rss" />
+		<outline text="Entrepreneur" title="Entrepreneur" description="The latest stories from Entrepreneur." xmlUrl="https://feeds.feedburner.com/entrepreneur/latest" type="rss" />
+		<outline text="Feld Thoughts" title="Feld Thoughts" description="" xmlUrl="https://feld.com/feed" type="rss" />
+		<outline text="Forbes | Entrepreneurs" title="Forbes | Entrepreneurs" description="" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" type="rss" />
+		<outline text="Inc.com" title="Inc.com" description="Inc.com, the daily resource for entrepreneurs." xmlUrl="https://www.inc.com/rss/" type="rss" />
+		<outline text="Inside Intercom" title="Inside Intercom" description="Product, Marketing, and Customer Support Blog" xmlUrl="https://www.intercom.com/blog/feed" type="rss" />
+		<outline text="Product Hunt" title="Product Hunt" description="" xmlUrl="https://www.producthunt.com/feed" type="rss" />
+		<outline text="Quick Sprout" title="Quick Sprout" description="Start and Grow Your Business" xmlUrl="https://www.quicksprout.com/rss" type="rss" />
+		<outline text="Small Business Trends" title="Small Business Trends" description="Founded in 2003, Small Business Trends is an award-winning online publication for small business owners, entrepreneurs and the people who interact with them. It is one of the most popular independent small business publications on the web. Together with hundreds of expert contributors, Small Business Trends brings you the news, tips, advice and resources you need. 'Small business success... delivered daily.'" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" type="rss" />
+		<outline text="Smart Passive Income" title="Smart Passive Income" description="" xmlUrl="https://feeds.feedburner.com/smartpassiveincome" type="rss" />
+		<outline text="Springwise" title="Springwise" description="Innovation That Matters" xmlUrl="https://www.springwise.com/feed" type="rss" />
+		<outline text="Steve Blank" title="Steve Blank" description="Innovation and Entrepreneurship" xmlUrl="https://steveblank.com/feed/" type="rss" />
+		<outline text="VentureBeat" title="VentureBeat" description="Transformative tech coverage that matters" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" type="rss" />
+		<outline text="Feld Thoughts" title="Feld Thoughts" description="" xmlUrl="https://feld.com/archives/tag/blog/feed" type="rss" />
+    </outline>
+    <outline text="Technology" title="Technology">
+		<outline text="Ars Technica" title="Ars Technica" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis." xmlUrl="https://feeds.arstechnica.com/arstechnica/index" type="rss" />
+		<outline text="CNET" title="CNET" description="CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events." xmlUrl="https://www.cnet.com/rss/news/" type="rss" />
+		<outline text="Gizmodo" title="Gizmodo" description="We come from the future" xmlUrl="https://gizmodo.com/rss" type="rss" />
+		<outline text="Lifehacker" title="Lifehacker" description="Do everything better" xmlUrl="https://lifehacker.com/rss" type="rss" />
+		<outline text="Mashable" title="Mashable" description="Mashable is a leading source for news, information and resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's 25 million monthly unique visitors and 10 million social media followers have become one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco." xmlUrl="https://feeds.mashable.com/Mashable" type="rss" />
+		<outline text="ReadWrite" title="ReadWrite" description="The Blog of Things" xmlUrl="https://readwrite.com/feed/" type="rss" />
+		<outline text="Slashdot" title="Slashdot" description="News for nerds, stuff that matters" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" type="rss" />
+		<outline text="Stratechery by Ben Thompson" title="Stratechery by Ben Thompson" description="On the business, strategy, and impact of technology." xmlUrl="https://stratechery.com/feed/" type="rss" />
+		<outline text="TechCrunch" title="TechCrunch" description="TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web." xmlUrl="https://feeds.feedburner.com/TechCrunch" type="rss" />
+		<outline text="The Keyword" title="The Keyword" description="Google product and technologies news and stories" xmlUrl="https://www.blog.google/rss/" type="rss" />
+		<outline text="The Next Web" title="The Next Web" description="Original and proudly opinionated perspectives for Generation T" xmlUrl="https://thenextweb.com/feed/" type="rss" />
+		<outline text="The Verge" title="The Verge" description="" xmlUrl="https://www.theverge.com/rss/index.xml" type="rss" />
+		<outline text="Engadget" title="Engadget" description="" xmlUrl="https://www.engadget.com/rss.xml" type="rss" />
+    </outline>
+    <outline text="Television" title="Televisions">
+    	<outline text="Bleeding Cool | TV" title="Bleeding Cool | TV" description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
+		<outline text="TV Fanatic" title="TV Fanatic" description="" xmlUrl="https://www.tvfanatic.com/rss.xml" type="rss" />
+		<outline text="TVLine" title="TVLine" description="TV News, Previews, Spoilers, Casting Scoop, Interviews" xmlUrl="https://tvline.com/feed/" type="rss" />
+		<outline text="The A.V. Club | TV" title="The A.V. Club | TV" description="Pop culture obsessives writing for the pop culture obsessed." xmlUrl="https://tv.avclub.com/rss" type="rss" />
+		<outline text="the TV addict" title="the TV addict" description="TV News, Previews, Spoilers and Reviews" xmlUrl="https://feeds.feedburner.com/thetvaddict/AXob" type="rss" />
+    </outline>
+    <outline text="Tennis" title="Tennis">
+    	<outline text="BBC Sport | Tennis" title="BBC Sport | Tennis" description="" xmlUrl="https://feeds.bbci.co.uk/sport/tennis/rss.xml" type="rss" />
+		<outline text="Grand Slam Fantasy Tennis" title="Grand Slam Fantasy Tennis" description="Fantasy Tennis" xmlUrl="https://www.grandslamfantasytennis.com/feed/?x=1" type="rss" />
+		<outline text="ATP World Tour" title="ATP World Tour" description="Headline News" xmlUrl="https://www.atptour.com/en/media/rss-feed/xml-feed" type="rss" />
+		<outline text="peRFect Tennis" title="peRFect Tennis" description="UK Tennis Blog" xmlUrl="https://www.perfect-tennis.com/feed/" type="rss" />
+		<outline text="ESPN | TENNIS" title="ESPN | TENNIS" description="Latest TENNIS news from www.espn.com" xmlUrl="https://www.espn.com/espn/rss/tennis/news" type="rss" />
+    </outline>
+    <outline text="Travel" title="Travel">
+    	<outline text="Atlas Obscura" title="Atlas Obscura" description="New wonders and curiosities added to the Atlas." xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
+		<outline text="Live Life Travel" title="Live Life Travel" description="Your travel partner for life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
+		<outline text="Lonely Planet Travel News" title="Lonely Planet Travel News" description="Travel news and more from Lonely Planet" xmlUrl="https://www.lonelyplanet.com/news/feed/atom/" type="rss" />
+		<outline text="NYT | Travel" title="NYT | Travel" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
+		<outline text="Nomadic Matt's Travel Site" title="Nomadic Matt's Travel Site" description="Travel Better, Cheaper, Longer" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" type="rss" />
+		<outline text="The Guardian | Travel" title="The Guardian | Travel" description="Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
+    </outline>
+    <outline text="Web Development" title="Web Development">
+    	<outline text="A List Apart" title="A List Apart" description="Articles for people who make web sites." xmlUrl="https://alistapart.com/main/feed/" type="rss" />
+		<outline text="CSS-Tricks" title="CSS-Tricks" description="Tips, Tricks, and Techniques on using Cascading Style Sheets." xmlUrl="https://css-tricks.com/feed/" type="rss" />
+		<outline text="Code Wall" title="Code Wall" description="Web Development and Programming" xmlUrl="https://www.codewall.co.uk/feed/" type="rss" />
+		<outline text="David Walsh Blog" title="David Walsh Blog" description="A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development." xmlUrl="https://davidwalsh.name/feed" type="rss" />
+		<outline text="Mozilla Hacks" title="Mozilla Hacks" description="the Web developer blog - hacks.mozilla.org" xmlUrl="https://hacks.mozilla.org/feed/" type="rss" />
+		<outline text="Sink In" title="Sink In" description="Tech and Travel" xmlUrl="https://gosink.in/rss/" type="rss" />
+		<outline text="Google Web" title="Google Web" description="The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more." xmlUrl="https://developers.google.com/web/updates/rss.xml" type="rss" />
+    </outline>
+	</body>
+</opml>
