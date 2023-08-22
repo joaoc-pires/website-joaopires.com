@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "About"
-permalink: /about/
+title: About
 ---
 
 Hello there, my name is João Carlos!
