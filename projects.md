@@ -2,8 +2,6 @@
 layout: page
 title: Projects
 ---
-# Projects
-
 I've worked in a lot of projects in the last few years, both iOS/iPadOS as well as other platforms. These might not the biggest of flashiest projects I've worked on, but are the ones I'm most proud of.
 
 ## Personal Projects
