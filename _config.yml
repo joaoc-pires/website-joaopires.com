@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Joao Carlos Pires
+url: https://joaopires.com
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,17 +32,17 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Joao Pires
+  url: https://mastodon.social/@keirmot
+  email: mail@joaopires.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
+  # - title: Blog
+  #   url: /archive
 
   - title: About
     url: /about
