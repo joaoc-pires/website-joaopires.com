@@ -13,4 +13,4 @@ At any moment you might find me reading the latest API documentation from Apple,
 
 My new quest is to complete an undergraduate programe in [Foreign Relations at ULisboa's ISCSP](https://www.iscsp.ulisboa.pt/pt/cursos/oferta-graduada/licenciaturas/relacoes-internacionais).
 
-What comes next is too far beyound the horizon.
+What comes next is too far beyond the horizon, yet to be seen.
