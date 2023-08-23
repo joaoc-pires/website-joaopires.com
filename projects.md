@@ -9,3 +9,6 @@ I've worked in a lot of projects in the last few years, both iOS/iPadOS as well 
 
 **[Conceal](https://github.com/joaoc-pires/WoW-Conceal)**: Conceal is a small Addon for World of Warcraft. When blizzard released the new UI with Dragonflight, I wanted to start using as much of the retail UI as possible, but I also needed some functionality provided by ElvUI. Conceal simply hide parts of the UI when they are not needed. Simple as that.
 
+## Contracted Work
+**[Cortado](https://www.cortado.com/en/)**: At Cortado I work as part of a team of developers. As a mobile developer, I've contributed to every app the company has published in the AppStore. Cortado provides multiple solutions for mobile device management, and as part of the Cortado Group, we're also in the business of helping our customers find the perfect printing solution that fits their needs.
+
