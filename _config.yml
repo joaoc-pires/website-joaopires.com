@@ -5,6 +5,8 @@ paginate: 1
 baseurl: ""
 permalink: pretty
 
+mastodon: "https://mastodon.social/@keirmot"
+
 # Gems
 plugins:
   - jekyll-gist
