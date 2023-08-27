@@ -43,9 +43,6 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Contacts
-    url: /contacts
-
   - title: Projects
     url: /projects
 
