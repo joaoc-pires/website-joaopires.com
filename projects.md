@@ -7,6 +7,8 @@ I've worked in a lot of projects in the last few years, both iOS/iPadOS as well 
 ## Personal Projects
 **[Ares](https://apps.apple.com/us/app/ares-rss-reader/id1560552142)**: This is close to my heart. Not only is it my personal RSS Reader, but it's also the project I rewrite every year to learn new Apple API's and experiment with some less used technologies Apple might release.
 
+**[Rede Comboios]()**: This app allows to follow the Portuguese trains and their schedules. It uses an open, yet undocumented, API from the Infraestruturas de Portugal, to access parts of the information, and others are made using public available information with no API. You can find more info [here](https://joaopires.com/rede/faq.html)
+
 **[Conceal](https://github.com/joaoc-pires/WoW-Conceal)**: Conceal is a small Addon for World of Warcraft. When blizzard released the new UI with Dragonflight, I wanted to start using as much of the retail UI as possible, but I also needed some functionality provided by ElvUI. Conceal simply hide parts of the UI when they are not needed. Simple as that.
 
 ## Contracted Work
