@@ -1,7 +1,7 @@
 {
     "hasError": true,
-    "errorMessage": "This is a test warning!",
+    "errorMessage": "Aviso de Teste!",
     "errorVersion": "2023.10.1",
-    "errorLevel": 1,
+    "errorLevel": 2,
     "errorLink": "https://joaopires.com/apis/train-stations/test-warning"
 }
