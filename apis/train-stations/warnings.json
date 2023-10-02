@@ -1,5 +1,5 @@
 {
-    "hasError": true,
+    "hasError": false,
     "errorMessage": "Aviso de Teste!",
     "errorVersion": "2023.10.1",
     "errorLevel": 2,
