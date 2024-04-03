@@ -1,9 +1,8 @@
 ---
 layout: single
+title: About
 author_profile: true
 ---
-# About
-
 My name is João (Jay) Pires, and I'm an iOS developer with 8 years of experience, based in Lisbon, Portugal🇵🇹\
 \
 I'm currently employed at [Cortado](https://www.cortado.com), but I also do some freelance work on the side. If you're interested you can contact me through [email](mailto:developer@joaopires.com).\

@@ -1,8 +1,8 @@
 ---
 layout: single
+title: What I'm doing now
 author_profile: true
 ---
-# What I'm doing now
 This page is my Now update hub, and I'll be giving it a refresh every now and then. 
 
 ## Work
