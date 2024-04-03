@@ -1,18 +1,14 @@
 ---
-layout: page
-title: Projects
+layout: single
+author_profile: true
 ---
-I've worked in a lot of projects in the last few years, both iOS/iPadOS as well as other platforms. These might not the biggest of flashiest projects I've worked on, but are the ones I'm most proud of.
+# Projects
 
-## Personal Projects
-**[Ares](https://apps.apple.com/us/app/ares-rss-reader/id1560552142)**: This is close to my heart. Not only is it my personal RSS Reader, but it's also the project I rewrite every year to learn new Apple API's and experiment with some less used technologies Apple might release.
+## Ares
+Ares is my passion project, but I always have trouble explaining why. It's an RSS Reader, and it's awesome!\
+I rewrite most of the app once a year, as an exercise in keeping up with new APIs apple releases. Sometimes it goes well, other times the APIs are so buggy one must put SwiftData to the side and use Realm - can you tell I've been burn?
 
-**[Rede Comboios]()**: This app allows to follow the Portuguese trains and their schedules. It uses an open, yet undocumented, API from the Infraestruturas de Portugal, to access parts of the information, and others are made using public available information with no API. You can find more information [here](https://joaopires.com/rede/faq) (in portuguese).
-
-**[Conceal](https://github.com/joaoc-pires/wow-addon-conceal)**: Conceal is a small Addon for World of Warcraft. When blizzard released the new UI with Dragonflight, I wanted to start using as much of the retail UI as possible, but I also needed some functionality provided by ElvUI. Conceal simply hide parts of the UI when they are not needed. Simple as that.
-
-**[HoN Announcer REDAME](https://github.com/joaoc-pires/wow-addon-hon-announcer-remade)** is another small addon for World of Warcraft. It plays a Heroes of Newerth sound clip when certain PvP actions happen. Just adds a fun little spice to the game.
-
-## Contracted Work
-**[Cortado](https://www.cortado.com/en/)**: At Cortado I work as part of a team of developers. As a mobile developer, I've contributed to every app the company has published in the AppStore. Cortado provides multiple solutions for mobile device management, and as part of the Cortado Group, we're also in the business of helping our customers find the perfect printing solution that fits their needs.
-
+## Rede
+The trains in portugal are... special. There's really no way of knowing when they are arriving because the train stations were build in 1890, and the only update they got was in 1976 with the instalation of intercoms so people can cringe when the annoucer tries to tell the passengers their [train will be delayed](https://www.youtube.com/watch?v=EJkoChmVn98).\
+My solution was to check the Infraestruturas de Portugal website, and use their open but undocumented API to create an application that has this information up-to-date.\
+It was build in a weekend, and I'm not particularly proud of it, but I hope to make it better in the future.

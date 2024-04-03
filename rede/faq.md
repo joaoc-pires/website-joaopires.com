@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Rede Comboios
 subtitle: Perguntas Frequentes
 ---

@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Now"
+    url: /now/
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/

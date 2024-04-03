@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Ares RSS Reader 
 subtitle: Terms of Use
 ---

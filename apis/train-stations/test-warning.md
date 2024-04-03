@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Aviso (teste)
 ---
 # Falha na API (Teste)
