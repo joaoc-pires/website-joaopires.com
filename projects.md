@@ -1,9 +1,8 @@
 ---
 layout: single
+title: Projects
 author_profile: true
 ---
-# Projects
-
 ## Ares
 Ares is my passion project, but I always have trouble explaining why. It's an RSS Reader, and it's awesome!\
 I rewrite most of the app once a year, as an exercise in keeping up with new APIs apple releases. Sometimes it goes well, other times the APIs are so buggy one must put SwiftData to the side and use Realm - can you tell I've been burn?
