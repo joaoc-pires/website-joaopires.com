@@ -25,4 +25,4 @@ Moving from Portugal is something we talked about for a while, but the destinati
 \
 Meanwhile I'm trying not to get too ashamed that I fractured my big toe 4 minutes after getting out of the car when visiting the Peak District...\
 \
-If you're a UK employer looking for an experience iOS developer, my CV is [here](https:/joapires.com/documents/CVJoaoPires.pdf), and more details can be found [here](https://joaopires.com/projects). You can always through me an [email](mailt:developer@joaopires.com) as well.
+If you're a UK employer looking for an experience iOS developer, my CV is [here](https:/joaopires.com/documents/CVJoaoPires.pdf), and more details can be found [here](https://joaopires.com/projects). You can always through me an [email](mailt:developer@joaopires.com) as well.
