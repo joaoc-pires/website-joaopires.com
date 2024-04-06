@@ -31,46 +31,55 @@ author_profile: true
 These are my personal projects—each born from a different motivation. Some were crafted with love, others driven by obsession, and a few simply born out of boredom. Among them, you'll find varying levels of quality—some shining brightly, others just okay. I've left out the downright bad ones, sparing you from those missteps. But each project, regardless of its origin or outcome, holds a piece of my creative spirit.
 
 ### Ares
-Ares is my passion project, but I always have trouble explaining why. It's an RSS Reader, and it's awesome!\
-I used to rewrite most of the app once a year, as an exercise in keeping up with new APIs apple releases. Sometimes it goes well, other times the APIs are so buggy one must put SwiftData to the side and use Realm - can you tell I've been burn?
+Ares holds a special place in my heart as my passion project, and explaining why isn't always easy, but here it goes: it's an RSS Reader, and it's awesome! For me, the thrill lies in the constant evolution of the app. I used to embark on annual rewrites, not just for the sake of change, but as an exercise in staying abreast of the latest APIs released by Apple. Sometimes, everything goes smoothly, and I can seamlessly integrate the new APIs. However, there are those instances when the APIs turn out to be so buggy that I'm left with no choice but to set aside SwiftData and rely on Realm instead. You could say I've been burned a few times by unpredictable API behavior, but the challenge only adds to the satisfaction when things do work out smoothly.
 
 You can find it [here](https://apps.apple.com/pt/app/ares-3-rss-reader/id6455494975?l=en-GB).
 
 ### Rede
-The trains in portugal are... special. There's really no way of knowing when they are arriving because the train stations were build in 1890, and the only update they got was in 1976 with the instalation of intercoms so people can cringe when the annoucer tries to tell the passengers their [train will be delayed](https://www.youtube.com/watch?v=EJkoChmVn98).\
-My solution was to check the Infraestruturas de Portugal website, and use their open but undocumented API to create an application that has this information up-to-date.\
-It was build in a weekend, and I'm not particularly proud of it, but I hope to make it better in the future.
+The train system in Portugal has its own unique charm, to say the least. With stations dating back to the late 19th century and minimal updates since the 1970s, it's no wonder predicting train arrivals can feel like a guessing game. The only modern touch seems to be the addition of intercoms in 1976, which, let's face it, can sometimes lead to comical announcements about delays that passengers have learned to endure.
+
+In response to this challenge, I took matters into my own hands. I decided to tap into the Infraestruturas de Portugal website and leverage their open, albeit undocumented, API to create an application that provides up-to-date train information. With a weekend's worth of work, I whipped up a solution—not my proudest achievement, but a step in the right direction. My hope is to refine and improve this application in the future, making the train experience just a tad less unpredictable for fellow passengers.
 
 You can find it [here](https://apps.apple.com/pt/app/rede-comboios-de-portugal/id1447635458?l=en-GB)
 
 ### aCultural
-This was my pet project before I had Ares, it served the same objective to keep my skills up to date. Unfortunatly, the API is so poorly documented and changes so frequently it was a hassle to maintain. It used the APIs provided by the Lisbon Municipality about cultural events and interviews to artists. It was basicly an App version of [Agenda Cultural de Lisboa](https://www.agendalx.pt).
+Before Ares came along, this was my pet project—a labor of love aimed at keeping my skills sharp. Its purpose was akin to Ares: to ensure I stayed up to date with the latest in development. However, unlike Ares, this project faced its own set of challenges. It relied on the APIs provided by the Lisbon Municipality, offering information about cultural events and artist interviews—a sort of app version of [Agenda Cultural de Lisboa](https://www.agendalx.pt).
+
+Unfortunately, maintaining this project proved to be quite the hassle. The APIs were poorly documented, and they seemed to change frequently, throwing a wrench into my efforts to keep the app running smoothly. Despite its setbacks, this project served as a valuable learning experience, teaching me the importance of adaptability and resilience in the face of ever-changing technology landscapes.
 
 It's no longer available in the App Store, but the code is available [here](https://github.com/joaoc-pires/ios-app-acultural).
 
 ### eBLX
-I have a soft spot for this project. It was the very first app I release in the AppStore in the far gone year of 2016 (or was it 2017?). I since lost it's source code, but I can guarantee it was not pretty, or maintainable. It was basicly scrapping the HTML of the Lisbon Municipal Libraries to provide a usable interface on mobile. May it rest in peace.
+Ah, the nostalgia of the early days! This project holds a special place in my heart—it was the very first app I released on the App Store, way back in the distant past of 2016 (or was it 2017?). While I've since lost its source code, one thing remains certain: it was far from pretty or maintainable.
+
+Essentially, this project involved scraping the HTML of the Lisbon Municipal Libraries to cobble together a usable interface for mobile users. It may not have been the most elegant solution, but it served its purpose at the time. Rest in peace, dear project—you were a humble beginning to what has become a journey filled with learning and growth.
 
 It's no longer available anywhere.
 
 ### Portugal Trains
-It's a wrapper for the undocumented [Infraestruturas de Portugal](https://www.infraestruturasdeportugal.pt) APIs for train time tables. Not sure I can say much more about this one.
+Sometimes, simplicity speaks volumes. This project serves as a straightforward wrapper for the undocumented APIs provided by [Infraestruturas de Portugal](https://www.infraestruturasdeportugal.pt) for train timetables. There's not much more to say about it—it's a tool designed to streamline access to train schedule information, plain and simple.
 
 You can find it [here](https://github.com/joaoc-pires/lib-portugal-trains)
 
 ### PTStations
-In order to get all the features I wanted in Rede, I needed some info that was not obtainable via the Infraestruturas de Portugal API. The data needed like coordinates and services close to the train stations such like fire and police department were available but only on a XLSX file in the [Portuguese Open Data Portal](https://dados.gov.pt/pt/datasets/estacoes-e-apeadeiros/). I made this very rude, very poorly documented app to imports this data set and export it as a JSON file. I was then able to more easily use the data within Rede.
+In order to enrich the features of Rede, I found myself in need of additional information that wasn't accessible through the Infraestruturas de Portugal API. Fortunately, the data I required, such as coordinates and nearby services like fire and police departments, was available—but only in an XLSX file on the [Portuguese Open Data Portal](https://dados.gov.pt/pt/datasets/estacoes-e-apeadeiros/).
+
+To bridge this gap, I hastily put together a rudimentary, poorly documented app. Its sole purpose was to import this dataset and export it as a JSON file. This crude tool allowed me to effectively incorporate the necessary data into Rede, enhancing its functionality and providing users with a more comprehensive experience.
 
 You can find it [here](https://github.com/joaoc-pires/macos-app-ptstations?tab=readme-ov-file).\
 You can find the output [here](https://joaopires.com/apis/train-stations/all.json).
 
 ### Conceal
-Conceal is a World of Warcraft addon that hides UI elements when out of combat. There's not much more to it. It's written in Lua, and Blizzard documentation manages to be even worst than Apple's.
+Conceal is a straightforward World of Warcraft addon designed to streamline the gaming experience by hiding UI elements when the player is out of combat. Its functionality is simple yet invaluable for many players seeking a cleaner interface during moments of non-engagement.
+
+Developed in Lua, Conceal navigates the intricacies of the World of Warcraft environment, offering a seamless transition between combat and non-combat scenarios. However, creating and maintaining this addon comes with its own set of challenges, particularly due to the lackluster documentation provided by Blizzard—a frustration shared by many developers in the gaming community. Despite these obstacles, Conceal remains a valuable tool for enhancing the gaming experience for World of Warcraft enthusiasts.
 
 You can find it [here](https://github.com/joaoc-pires/wow-addon-conceal).
 
 ### HoN Announcer
-Another World of Warcraft addon. This one is even simpler, it plays a HoN voice when certain PvP events happen in game. Simple, and hillarious, in my humble opinion.
+This particular gem is delightfully straightforward: it plays a Heroes of Newerth (HoN) voice line when specific PvP events occur in the game. Simple yet utterly hilarious, this addon adds a touch of humor to the intense PvP action in World of Warcraft.
+
+With its charming simplicity, this addon embodies the essence of fun and lightheartedness within the gaming community. After all, who can resist a well-timed HoN voice line in the midst of battle? It's a testament to the creativity and humor of addon developers, making the gaming experience all the more enjoyable for players around the world.
 
 You can find it [here](https://github.com/joaoc-pires/wow-addon-hon-announcer-remade).
 
