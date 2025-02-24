@@ -1,0 +1,30 @@
+safe: false
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+permalink: /:title
+
+title: "João Pires"
+description: "Hello there. My name is João. I'm a software developer. Besides Software Development I'm also interested in Management and Politics."
+baseurl: ""
+url: "https://joaopires.com" # replace by your site's url
+twitter_username: 
+github_username:  joaoc-pires # (your name)
+accent: "#f7f7e6" # accent color for blog column
+
+author: "João Pires"
+address: "☀️Lisbon, 🇵🇹Portugal"
+email: "mail@joaopires.com"
+
+# google analytics tracking code, please change the value
+g_analytics: ""
+
+# language settings
+isolang: en
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
