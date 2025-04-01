@@ -49,4 +49,4 @@ Ratzel, F. (1897) Politische Geographie oder die Geographie der Staaten, des Ver
 
 Said, E. W. (1978) Orientalism. Pantheon Books
 
-**Notes**: I've wrote the review to this booklet as an assignment for the 'Human Geography' course during the Ba in International Relations. It was published here the day after it was due, translated from the original in Portuguese.
+**Notes**: I've wrote the review to this booklet as an assignment for the 'Human Geography' course during the Ba in International Relations. It was published here a few days after it was due, translated from the original in Portuguese.
