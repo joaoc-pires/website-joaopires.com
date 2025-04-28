@@ -8,10 +8,10 @@ date:   2025-04-28 00:00:00 +0000
 **Author**: Jean-Jacques Rousseau<br>
 **Year**: 1762
 
-### What is it about?
+### **What is it about**?
 The Social Contract is Rousseau’s seminal work on political philosophy, exploring how individuals can associate while preserving individual freedom. He argues that legitimate government must arise from the general will, a collective agreement that transcends individual desires to serve the common good. The work outlines the principles of sovereignty, law-making, and civic freedom, opposing monarchy and advocating for participatory governance.
 
-### Key Takeaways:
+### **Key Takeaways**:
 Freedom through participation: True liberty is not the ability to do whatever one wants, but obedience to laws one has prescribed for oneself through the general will.
 General will vs. individual will: Citizens must subordinate personal interests to the collective good.
 Inalienable sovereignty: Sovereignty cannot be transferred or divided; it resides permanently with the people.
@@ -25,7 +25,7 @@ While Rousseau’s insistence on civic virtue may seem idealistic, it serves as 
 
 Nonetheless, a tension persists within his theory: the idea that the general will is "always right" risks suppressing dissent and overlooking the people's capacity for collective error. Rousseau seems to underestimate that a free people may at times choose self-destructive paths, and that real freedom includes the possibility of failure.
 
-### Best Quotes:
+### **Best Quotes:**
 > "The people, being subject to the laws, ought to be the authors of them."
 
 > "Sovereignty, being nothing less than the exercise of the general will, can never be alienated, and that the sovereign, who is a collective being, can be represented only by itself."
@@ -34,10 +34,10 @@ Nonetheless, a tension persists within his theory: the idea that the general wil
 
 > "It is precisely because the force of things tends always to destroy equality that the force of legislation must always tend to maintain it."
 
-### Would I recommend it?
+### **Would I recommend it?**
 Yes, especially for those interested in foundational political thought. It is critical for understanding modern concepts of democracy, citizenship, and state legitimacy. However, readers should approach it critically, recognizing several ambiguities and potential dangers in Rousseau’s argument, notably:
 
-#### Key Criticisms:
+#### **Key Criticisms:**
 Ambiguity of the general will: Rousseau offers little guidance on how to discern the general will in practice, making it vulnerable to manipulation.
 Risk of authoritarianism: The idea that citizens may be “forced to be free” can be interpreted as justifying coercive or totalitarian measures.
 Idealism vs. practicality: Rousseau’s vision presupposes a high level of civic virtue and homogeneity that is difficult to realize in large, pluralistic societies.
