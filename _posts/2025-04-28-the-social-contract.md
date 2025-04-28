@@ -35,9 +35,7 @@ Nonetheless, a tension persists within his theory: the idea that the general wil
 > "It is precisely because the force of things tends always to destroy equality that the force of legislation must always tend to maintain it."
 
 ### **Would I recommend it?**
-Yes, especially for those interested in foundational political thought. It is critical for understanding modern concepts of democracy, citizenship, and state legitimacy. However, readers should approach it critically, recognizing several ambiguities and potential dangers in Rousseau’s argument, notably:
-
-#### **Key Criticisms:**
+Yes, especially for those interested in foundational political thought. It is critical for understanding modern concepts of democracy, citizenship, and state legitimacy. However, readers should approach it critically, recognizing several ambiguities and potential dangers in Rousseau’s argument, notably:<br>
 **Ambiguity of the general will**: Rousseau offers little guidance on how to discern the general will in practice, making it vulnerable to manipulation.<br>
 **Risk of authoritarianism**: The idea that citizens may be “forced to be free” can be interpreted as justifying coercive or totalitarian measures.<br>
 **Idealism vs. practicality**: Rousseau’s vision presupposes a high level of civic virtue and homogeneity that is difficult to realize in large, pluralistic societies.<br>
