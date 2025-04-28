@@ -12,11 +12,11 @@ date:   2025-04-28 00:00:00 +0000
 The Social Contract is Rousseau’s seminal work on political philosophy, exploring how individuals can associate while preserving individual freedom. He argues that legitimate government must arise from the general will, a collective agreement that transcends individual desires to serve the common good. The work outlines the principles of sovereignty, law-making, and civic freedom, opposing monarchy and advocating for participatory governance.
 
 ### **Key Takeaways**:
-Freedom through participation: True liberty is not the ability to do whatever one wants, but obedience to laws one has prescribed for oneself through the general will.
-General will vs. individual will: Citizens must subordinate personal interests to the collective good.
-Inalienable sovereignty: Sovereignty cannot be transferred or divided; it resides permanently with the people.
-Moral education and civic virtue: Stable republics require citizens educated in civic responsibility and virtue.
-Warning against factionalism: Rousseau warns that special interests and factions can corrupt the general will.
+**Freedom through participation**: True liberty is not the ability to do whatever one wants, but obedience to laws one has prescribed for oneself through the general will.<br>
+**General will vs. individual will**: Citizens must subordinate personal interests to the collective good.<br>
+**Inalienable sovereignty**: Sovereignty cannot be transferred or divided; it resides permanently with the people.<br>
+**Moral education and civic virtue**: Stable republics require citizens educated in civic responsibility and virtue.<br>
+**Warning against factionalism**: Rousseau warns that special interests and factions can corrupt the general will.<br>
 
 ### **Thoughts and Ideas**
 Rousseau’s The Social Contract fundamentally empowers democratic regimes by grounding authority in the collective will rather than divine right or elite interests. His assertion that individuals can be "forced to be free" is not an endorsement of authoritarianism but rather a profound reflection on the necessity of aligning individual freedom with collective good. Rousseau’s definition of freedom, contrasting sharply with the more individualistic and property-centric notions of Anglo-Saxon contractualists like Locke and Hobbes, exemplifies a distinctly continental philosophical tradition — one that prioritizes community and moral autonomy over personal license.
