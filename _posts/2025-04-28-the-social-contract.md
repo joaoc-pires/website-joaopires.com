@@ -38,9 +38,8 @@ Nonetheless, a tension persists within his theory: the idea that the general wil
 Yes, especially for those interested in foundational political thought. It is critical for understanding modern concepts of democracy, citizenship, and state legitimacy. However, readers should approach it critically, recognizing several ambiguities and potential dangers in Rousseau’s argument, notably:
 
 #### **Key Criticisms:**
-Ambiguity of the general will: Rousseau offers little guidance on how to discern the general will in practice, making it vulnerable to manipulation.
-Risk of authoritarianism: The idea that citizens may be “forced to be free” can be interpreted as justifying coercive or totalitarian measures.
-Idealism vs. practicality: Rousseau’s vision presupposes a high level of civic virtue and homogeneity that is difficult to realize in large, pluralistic societies.
-There may be other answers that can be considered regarding the applicability of his model to contemporary politics.
+**Ambiguity of the general will**: Rousseau offers little guidance on how to discern the general will in practice, making it vulnerable to manipulation.<br>
+**Risk of authoritarianism**: The idea that citizens may be “forced to be free” can be interpreted as justifying coercive or totalitarian measures.<br>
+**Idealism vs. practicality**: Rousseau’s vision presupposes a high level of civic virtue and homogeneity that is difficult to realize in large, pluralistic societies.<br>
 
 **Notes**: I've read this book as an assignment for the 'Political Theory' course during the Ba in International Relations.
