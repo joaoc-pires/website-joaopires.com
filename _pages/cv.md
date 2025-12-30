@@ -29,6 +29,7 @@ redirect_from:
 ***
 
 **Education**
+
 **BA in International Relations**
 <br>*Instituto Superior de Ciências Sociais e Políticas, ULisboa | Expected Sept 2025*
 <br>**Focus:** International Law, institutional dynamics, and theoretical frameworks.
@@ -42,4 +43,4 @@ redirect_from:
 **Languages**
 <br>**Portuguese:** Native
 <br>**English:** Fluent (C2)
-<br>**Spanish:** Intermediate (B2)
+<br>**Spanish:** Intermediate (B1)
