@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is João Pires and I am a Software Engineer based in Lisbon, Portugal, with a professional track record in mobile application development beginning in 2017. I am currently associated with Cortado Mobile Solutions (Berlin), where I work on enterprise-grade mobile systems within remote, multi-functional teams.
+I am João Pires, a Lisbon based Software Engineer. I have been developing mobile applications since 2017. Currently, I work remotely for Berlin based Cortado Mobile Solutions building enterprise mobile systems.
 
-My professional focus lies at the intersection of Information Systems and user-centric application design. While my technical expertise is rooted in the iOS ecosystem (Swift, Objective-C, and API Integration), my interest has evolved toward the broader management of software lifecycles, specifically the challenges of maintaining legacy systems and ensuring the scalability of digital tools in organizational contexts.
+My technical background is mainly in iOS development using Swift and Objective C. Recently, my focus has shifted toward broader software lifecycle management, particularly the challenges of maintaining legacy systems and scaling digital tools for organizations.
 
-Since joining Cortado Mobile Solutions, and previously at Next Reality, I have worked on translating complex business requirements into functional software solutions. This experience has provided me with a practical understanding of how information technologies are deployed to solve real-world problems, ranging from white-label AR solutions to the maintenance of established productivity product lines.
+At Cortado and previously at Next Reality, my daily work involves turning business needs into working software. The projects I have worked on range from white label AR apps to maintaining established productivity tools.
 
-My perspective is informed by a multidisciplinary background. I am currently a final-year undergraduate in International Relations at ISCSP (ULisboa), with degree completion scheduled for September 2025. This academic pursuit provides a theoretical foundation in institutional dynamics, which I have complemented with technical training in Computer Engineering. I am now looking to bridge these domains by further exploring Management Information Systems.
+Alongside my engineering work, I am finishing an undergraduate degree in International Relations at ISCSP (ULisboa). Combining my technical training with this academic focus on institutions has led me to explore Management Information Systems as my next area of study.
